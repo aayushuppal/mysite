@@ -1,0 +1,54 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Home\n\n\n\nHi, I'm Aayush Uppal.\n\nA Software Engineer , currently working for \nBloomberg\n in New York City and a \n\nUniversity at Buffalo\n/ \n\nNIT Hamirpur\n alumni.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI am passionate about \nDistributed Systems\n\n, \nData Science\n, \nMachine Learning\n and in process building high performance\n, reliable backend systems to leverage those capabilities to the maximum and derive the best insight possible.\n\n\nCurrent Endeavors\n\n\n\n\nBuilding ETL pipelines with Apache Spark.\n\n\nReal Time Analytics using Spark Streaming and Spark MLlib.\n\n\nUnderstanding Hyperledger and Blockchain.\n\n\nDwelling into the fullstack Javascript world with MEAN stack.\n\n\n\n\nFeatured\n\n\n\n\nKangra Valley Train in the stunning backdrop of Dhauladhars. \nlink", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#home", 
+            "text": "Hi, I'm Aayush Uppal. \nA Software Engineer , currently working for  Bloomberg  in New York City and a  University at Buffalo /  NIT Hamirpur  alumni.       I am passionate about  Distributed Systems \n,  Data Science ,  Machine Learning  and in process building high performance\n, reliable backend systems to leverage those capabilities to the maximum and derive the best insight possible.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#current-endeavors", 
+            "text": "Building ETL pipelines with Apache Spark.  Real Time Analytics using Spark Streaming and Spark MLlib.  Understanding Hyperledger and Blockchain.  Dwelling into the fullstack Javascript world with MEAN stack.", 
+            "title": "Current Endeavors"
+        }, 
+        {
+            "location": "/#featured", 
+            "text": "Kangra Valley Train in the stunning backdrop of Dhauladhars.  link", 
+            "title": "Featured"
+        }, 
+        {
+            "location": "/profile/", 
+            "text": "Timeline\n\n\n(2016 - 2017)\n\n\n\n\n(2014 - 2016)\n\n\n\n\n(2013 - 2014)\n\n\n\n\n(2009 - 2013)", 
+            "title": "Profile"
+        }, 
+        {
+            "location": "/profile/#timeline", 
+            "text": "", 
+            "title": "Timeline"
+        }, 
+        {
+            "location": "/profile/#2016-2017", 
+            "text": "", 
+            "title": "(2016 - 2017)"
+        }, 
+        {
+            "location": "/profile/#2014-2016", 
+            "text": "", 
+            "title": "(2014 - 2016)"
+        }, 
+        {
+            "location": "/profile/#2013-2014", 
+            "text": "", 
+            "title": "(2013 - 2014)"
+        }, 
+        {
+            "location": "/profile/#2009-2013", 
+            "text": "", 
+            "title": "(2009 - 2013)"
+        }
+    ]
+}

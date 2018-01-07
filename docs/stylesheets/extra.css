@@ -1,0 +1,36 @@
+.box1 {
+    display: inline-block;
+    max-width: 60%;
+    margin: 1em;
+    vertical-align: top;
+  }
+
+.box2 {
+    display: inline-block;
+    max-width: 40%;
+    margin: 1em;
+    text-align: center;
+}
+
+.imgc {
+    border-radius: 50%;
+}
+
+@media screen and (max-width: 700px) {
+    .box1 {
+        display: block;
+        width: 100%;
+        margin: 0em;
+        max-width: 100%;
+        text-align: center;
+      }
+    
+    .box2 {
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        margin: 0em;
+        margin-top: 1em;
+        text-align: center;
+    }
+}

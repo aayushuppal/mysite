@@ -17,12 +17,14 @@ I am passionate about **Distributed Systems**
 , **Data Science**, **Machine Learning** and in process building high performance
 , reliable backend systems to leverage those capabilities to the maximum and derive the best insight possible.
 
-
 ## Current Endeavors
 * `Building ETL pipelines with Apache Spark.`
 * `Real Time Analytics using Spark Streaming and Spark MLlib.`
 * `Understanding Hyperledger and Blockchain.`
 * `Dwelling into the fullstack Javascript world with MEAN stack.`
 
+
 ## Featured
-* Kangra Valley Train in the stunning backdrop of Dhauladhars. [link](https://aayushuppal.github.io/mountains/)
+
+!!! info ""
+    * Kangra Valley Train in the stunning backdrop of Dhauladhars. [link](https://aayushuppal.github.io/mountains/)

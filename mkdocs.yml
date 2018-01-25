@@ -7,6 +7,8 @@ pages:
   - Home: index.md
   - Profile: profile.md
 
+repo_name: aayushuppal/mysite
+repo_url: https://github.com/aayushuppal/mysite
 
 extra_css:
   - 'stylesheets/flexboxgrid.min.css'

@@ -1,8 +1,9 @@
 site_name: Aayush Uppal
 
 theme:
-  name: 'material'     
-
+  name: 'material'
+  logo:
+    icon: 'explore'
 pages:
   - Home: index.md
   - Profile: profile.md

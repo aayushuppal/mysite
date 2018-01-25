@@ -2,6 +2,7 @@ site_name: Aayush Uppal
 
 theme:
   name: 'material'
+  favicon: 'img/favicon.ico'
   logo:
     icon: 'explore'
 pages:

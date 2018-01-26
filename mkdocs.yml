@@ -10,7 +10,9 @@ pages:
   - Profile: profile.md
 
 repo_name: aayushuppal/mysite
-repo_url: https://github.com/aayushuppal/mysite
+# repo_url: https://github.com/aayushuppal/mysite
+
+copyright: '© Aayush Uppal'
 
 extra_css:
   - 'stylesheets/flexboxgrid.min.css'

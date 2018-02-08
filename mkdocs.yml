@@ -1,17 +1,7 @@
-site_name: Aayush Uppal
-
-theme:
-  name: 'material'
-  favicon: 'img/favicon.ico'
-  logo:
-    icon: 'explore'
-pages:
-  - Home: index.md
-  - Profile: profile.md
-
-repo_name: aayushuppal/mysite
+# repo_name: aayushuppal/mysite
 # repo_url: https://github.com/aayushuppal/mysite
 
+site_name: Aayush Uppal
 copyright: '© Aayush Uppal'
 
 extra_css:
@@ -24,7 +14,7 @@ extra_javascript:
   - "https://cdnjs.cloudflare.com/ajax/libs/js-sequence-diagrams/1.0.6/sequence-diagram-min.js"
   - "https://cdnjs.cloudflare.com/ajax/libs/flowchart/1.6.5/flowchart.min.js"
   - "js/extra-seq.js"
-  
+
 markdown_extensions:
   - markdown.extensions.admonition
   - markdown.extensions.codehilite:
@@ -51,3 +41,27 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+
+theme:
+  name: 'material'
+  favicon: 'img/favicon.ico'
+  logo:
+    icon: 'explore'
+  feature:
+    tabs: true
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  language: en
+  font:
+    text: Monospace
+    code: Monospace
+  
+pages:
+  - Home: index.md
+  - Profile: profile.md
+
+  - Dev Posts:
+    - DP/Pg/I: devposts/devposts1.md 

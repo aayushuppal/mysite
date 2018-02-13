@@ -1,10 +1,21 @@
 # Timeline
 :sparkles:
 
+#### State University of New York, University at Buffalo
+
+!!! info "Buffalo, New York : August 2014 - February 2016"
+    - GPA 3.86/4
+    - Masters in Computer Science
+    - **Highlights**
+        - Coursework focus area: Artificial Intelligence and Machine Learning
+
+
 #### Compro Technologies - Software Engineer
 
 !!! info "New Delhi, India : August 2013 - July 2014"
     - MyITLab Sims project
+    - //TODO
+
 
 #### National University of Singapore - Researcher, Intern
 
@@ -13,6 +24,7 @@
     - Worked on Raytracing of Solar Cells, to comeup with an effective implementation for simulating
     light trapping effeciency in solar cell models, involved mathematical, algorithm modeling
     - Relied on C++ for extensibilty and better performance for the implementation
+
 
 #### NIT Hamirpur
 

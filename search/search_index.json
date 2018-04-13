@@ -1,54 +1,79 @@
 {
     "docs": [
         {
-            "location": "/", 
-            "text": "Home\n\n\n\nHi, I'm Aayush Uppal.\n\nA Software Engineer , currently working for \nBloomberg\n in New York City and a \n\nUniversity at Buffalo\n/ \n\nNIT Hamirpur\n alumni.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI am passionate about \nDistributed Systems\n\n, \nData Science\n, \nMachine Learning\n and in process building high performance\n, reliable backend systems to leverage those capabilities to the maximum and derive the best insight possible.\n\n\nCurrent Endeavors\n\n\n\n\nBuilding ETL pipelines with Apache Spark.\n\n\nReal Time Analytics using Spark Streaming and Spark MLlib.\n\n\nUnderstanding Hyperledger and Blockchain.\n\n\nDwelling into the fullstack Javascript world with MEAN stack.\n\n\n\n\nFeatured\n\n\n\n\n\n\nKangra Valley Train in the stunning backdrop of Dhauladhars. \nlink", 
+            "location": "/",
+            "text": "Home\n\u00b6\n\n\n\nHi, I'm Aayush Uppal.\n\nA Software Engineer , currently working for \nBloomberg\n in New York City and a \n\nUniversity at Buffalo\n/ \n\nNIT Hamirpur\n alumni.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI am passionate about \nDistributed Systems\n, \nData Science\n, \nMachine Learning\n and in process building high performance\n, reliable backend systems to leverage those capabilities to the maximum and derive the best insight possible.\n\n\n\n\nCurrent Endeavors\n\u00b6\n\n\n\n\nBuilding ETL pipelines with Apache Spark.\n\n\nReal Time Analytics using Spark Streaming and Spark MLlib.\n\n\nUnderstanding Hyperledger and Blockchain.\n\n\nDwelling into the fullstack Javascript world with MEAN stack.\n\n\n\n\nFeatured\n\u00b6\n\n\n\n\n\n\nKangra Valley Train in the stunning backdrop of Dhauladhars. \nlink\n\n\n\n\n\n\nMore About Me\n\u00b6\n\n\n\n\n\n\n\n\nHome is where the Himalayas reside\n\n\n\n\nI grew up in a picturesque town on the edge of Himalayas. \nDharamshala\n\n\nCheck out my thread dedicated to the amazing place. \nLink\n\n\n\n\n\n\n\n\nAmongst other things: A passion for Football and the Blues Guitar, usually gets me through some of my days.",
             "title": "Home"
-        }, 
+        },
         {
-            "location": "/#home", 
-            "text": "Hi, I'm Aayush Uppal. \nA Software Engineer , currently working for  Bloomberg  in New York City and a  University at Buffalo /  NIT Hamirpur  alumni.       I am passionate about  Distributed Systems \n,  Data Science ,  Machine Learning  and in process building high performance\n, reliable backend systems to leverage those capabilities to the maximum and derive the best insight possible.", 
+            "location": "/#home",
+            "text": "Hi, I'm Aayush Uppal. \nA Software Engineer , currently working for  Bloomberg  in New York City and a  University at Buffalo /  NIT Hamirpur  alumni.       I am passionate about  Distributed Systems ,  Data Science ,  Machine Learning  and in process building high performance\n, reliable backend systems to leverage those capabilities to the maximum and derive the best insight possible.",
             "title": "Home"
-        }, 
+        },
         {
-            "location": "/#current-endeavors", 
-            "text": "Building ETL pipelines with Apache Spark.  Real Time Analytics using Spark Streaming and Spark MLlib.  Understanding Hyperledger and Blockchain.  Dwelling into the fullstack Javascript world with MEAN stack.", 
+            "location": "/#current-endeavors",
+            "text": "Building ETL pipelines with Apache Spark.  Real Time Analytics using Spark Streaming and Spark MLlib.  Understanding Hyperledger and Blockchain.  Dwelling into the fullstack Javascript world with MEAN stack.",
             "title": "Current Endeavors"
-        }, 
+        },
         {
-            "location": "/#featured", 
-            "text": "Kangra Valley Train in the stunning backdrop of Dhauladhars.  link", 
+            "location": "/#featured",
+            "text": "Kangra Valley Train in the stunning backdrop of Dhauladhars.  link",
             "title": "Featured"
-        }, 
+        },
         {
-            "location": "/profile/", 
-            "text": "Timeline\n\n\n(2016 - 2017)\n\n\n\n\n(2014 - 2016)\n\n\n\n\n(2013 - 2014)\n\n\n\n\n(2009 - 2013)", 
+            "location": "/#more-about-me",
+            "text": "Home is where the Himalayas reside   I grew up in a picturesque town on the edge of Himalayas.  Dharamshala  Check out my thread dedicated to the amazing place.  Link     Amongst other things: A passion for Football and the Blues Guitar, usually gets me through some of my days.",
+            "title": "More About Me"
+        },
+        {
+            "location": "/profile/",
+            "text": "Timeline\n\u00b6\n\n\n\n\nState University of New York, University at Buffalo\n\u00b6\n\n\n\n\nBuffalo, New York : August 2014 - February 2016\n\n\n\n\nGPA 3.86/4\n\n\nMasters in Computer Science\n\n\nHighlights\n\n\nCoursework focus area: Artificial Intelligence and Machine Learning\n\n\n\n\n\n\n\n\n\n\nCompro Technologies - Software Engineer\n\u00b6\n\n\n\n\nNew Delhi, India : August 2013 - July 2014\n\n\n\n\nMyITLab Sims project\n\n\n//TODO\n\n\n\n\n\n\nNational University of Singapore - Researcher, Intern\n\u00b6\n\n\n\n\nSingapore : May 2012 - July 2012\n\n\n\n\nSummer Intern at Solar Energy Research Institute of Singapore @ NUS, Singapore\n\n\nWorked on Raytracing of Solar Cells, to comeup with an effective implementation for simulating\nlight trapping effeciency in solar cell models, involved mathematical, algorithm modeling\n\n\nRelied on C++ for extensibilty and better performance for the implementation\n\n\n\n\n\n\nNIT Hamirpur\n\u00b6\n\n\n\n\nHamirpur, India : August 2009 - May 2013\n\n\n\n\nGPA 7.5/10\n\n\nBachelors of Technology, Electronics and Communication Engineering\n\n\nHighlights\n\n\nDirectorate of Technical Education Scholarship Holder\n\n\nCo-convener INS & Controls\n\n\nVice captain departmental team, soccer",
             "title": "Profile"
-        }, 
+        },
         {
-            "location": "/profile/#timeline", 
-            "text": "", 
+            "location": "/profile/#timeline",
+            "text": "",
             "title": "Timeline"
-        }, 
+        },
         {
-            "location": "/profile/#2016-2017", 
-            "text": "", 
-            "title": "(2016 - 2017)"
-        }, 
+            "location": "/profile/#state-university-of-new-york-university-at-buffalo",
+            "text": "Buffalo, New York : August 2014 - February 2016   GPA 3.86/4  Masters in Computer Science  Highlights  Coursework focus area: Artificial Intelligence and Machine Learning",
+            "title": "State University of New York, University at Buffalo"
+        },
         {
-            "location": "/profile/#2014-2016", 
-            "text": "", 
-            "title": "(2014 - 2016)"
-        }, 
+            "location": "/profile/#compro-technologies-software-engineer",
+            "text": "New Delhi, India : August 2013 - July 2014   MyITLab Sims project  //TODO",
+            "title": "Compro Technologies - Software Engineer"
+        },
         {
-            "location": "/profile/#2013-2014", 
-            "text": "", 
-            "title": "(2013 - 2014)"
-        }, 
+            "location": "/profile/#national-university-of-singapore-researcher-intern",
+            "text": "Singapore : May 2012 - July 2012   Summer Intern at Solar Energy Research Institute of Singapore @ NUS, Singapore  Worked on Raytracing of Solar Cells, to comeup with an effective implementation for simulating\nlight trapping effeciency in solar cell models, involved mathematical, algorithm modeling  Relied on C++ for extensibilty and better performance for the implementation",
+            "title": "National University of Singapore - Researcher, Intern"
+        },
         {
-            "location": "/profile/#2009-2013", 
-            "text": "", 
-            "title": "(2009 - 2013)"
+            "location": "/profile/#nit-hamirpur",
+            "text": "Hamirpur, India : August 2009 - May 2013   GPA 7.5/10  Bachelors of Technology, Electronics and Communication Engineering  Highlights  Directorate of Technical Education Scholarship Holder  Co-convener INS & Controls  Vice captain departmental team, soccer",
+            "title": "NIT Hamirpur"
+        },
+        {
+            "location": "/devposts/devposts1/",
+            "text": "Dev Posts\n\u00b6\n\n\nThe wild west of email threads\n\u00b6\n\n\nFebruary 2018\n\n\n\n\n//TODO\n\n\n\n\n\n\nStreaming analytics on logs\n\u00b6\n\n\n2017\n\n\ndistributed systems\n \nlogging\n \nApache Spark\n \nSpark Streaming\n    \n\n\n\n\nI had been wanting to experiment with the spark streaming framework for a while now, ever since I first got my hands on with the\nspark framework itself to work on a lifecycle analysis application that processed over a TB of data and generated meaningful\nclustered outputs.\n\n\nSpark Streaming for the uninitiated is a powerful platform that enables realtime analysis.\n\n\nThe Problem at hand:\n\nI am sure many developers in this day and age have at some point or the other run into a situation losing\ncontext ever so often while debugging an error or an anomalous behaviour trying to keep track of one identifier for incoming request\nmapped to second and that mapped to the third just to see where in all the event went through and processed in its lifecycle. \nIt particularly becomes even harder when your system is event driven and maintains state for decision making.\n\n\nSo here's what I decided to do. Build a spark streaming application that reads logs from multiple services in realtime from a message queue.\nProcess it in memory up until the corresponding event/request context expires. Aggregate all required information for that particular event \ninto a user defined structured data type. Define trigger conditions for alerts and dumps of error/warn and pass the object containing all the\nlogically mapped info for the program/developer to analyse.\n\n\nThis is what the POC pipeline looked like.\n\n[insert basic pipeline sequence diagram]",
+            "title": "DP/Pg/I"
+        },
+        {
+            "location": "/devposts/devposts1/#dev-posts",
+            "text": "",
+            "title": "Dev Posts"
+        },
+        {
+            "location": "/devposts/devposts1/#the-wild-west-of-email-threads",
+            "text": "February 2018   //TODO",
+            "title": "The wild west of email threads"
+        },
+        {
+            "location": "/devposts/devposts1/#streaming-analytics-on-logs",
+            "text": "2017  distributed systems   logging   Apache Spark   Spark Streaming        I had been wanting to experiment with the spark streaming framework for a while now, ever since I first got my hands on with the\nspark framework itself to work on a lifecycle analysis application that processed over a TB of data and generated meaningful\nclustered outputs.  Spark Streaming for the uninitiated is a powerful platform that enables realtime analysis.  The Problem at hand: \nI am sure many developers in this day and age have at some point or the other run into a situation losing\ncontext ever so often while debugging an error or an anomalous behaviour trying to keep track of one identifier for incoming request\nmapped to second and that mapped to the third just to see where in all the event went through and processed in its lifecycle. \nIt particularly becomes even harder when your system is event driven and maintains state for decision making.  So here's what I decided to do. Build a spark streaming application that reads logs from multiple services in realtime from a message queue.\nProcess it in memory up until the corresponding event/request context expires. Aggregate all required information for that particular event \ninto a user defined structured data type. Define trigger conditions for alerts and dumps of error/warn and pass the object containing all the\nlogically mapped info for the program/developer to analyse.  This is what the POC pipeline looked like. \n[insert basic pipeline sequence diagram]",
+            "title": "Streaming analytics on logs"
         }
     ]
 }

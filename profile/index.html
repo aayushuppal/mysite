@@ -19,6 +19,10 @@
       
         <meta name="lang:search.language" content="en">
       
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
         <meta name="lang:search.result.none" content="No matching documents">
       
         <meta name="lang:search.result.one" content="1 matching document">
@@ -28,7 +32,7 @@
         <meta name="lang:search.tokenizer" content="[\s\-]+">
       
       <link rel="shortcut icon" href="../img/favicon.ico">
-      <meta name="generator" content="mkdocs-0.17.2, mkdocs-material-2.2.5">
+      <meta name="generator" content="mkdocs-0.17.3, mkdocs-material-2.7.2">
     
     
       
@@ -36,16 +40,17 @@
       
     
     
-      <link rel="stylesheet" href="../assets/stylesheets/application.bcabdff3.css">
+      <link rel="stylesheet" href="../assets/stylesheets/application.8d40d89b.css">
       
     
     
       <script src="../assets/javascripts/modernizr.1aa3b519.js"></script>
     
     
+      <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
       
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono">
-        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Monospace:300,400,400i,700|Monospace">
+        <style>body,input{font-family:"Monospace","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Monospace","Courier New",Courier,monospace}</style>
       
       <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     
@@ -57,7 +62,7 @@
     
   </head>
   
-    <body>
+    <body dir="ltr">
   
     <svg class="md-svg">
       <defs>
@@ -65,9 +70,14 @@
         
       </defs>
     </svg>
-    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="drawer">
-    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="search">
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="drawer"></label>
+    
+      <a href="#timeline" tabindex="1" class="md-skip">
+        Skip to content
+      </a>
+    
     
       <header class="md-header" data-md-component="header">
   <nav class="md-header-nav md-grid">
@@ -103,11 +113,13 @@
             
 <div class="md-search" data-md-component="search" role="dialog">
   <label class="md-search__overlay" for="search"></label>
-  <div class="md-search__inner">
+  <div class="md-search__inner" role="search">
     <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" required placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query">
+      <input type="text" class="md-search__input" name="query" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
       <label class="md-icon md-search__icon" for="search"></label>
-      <button type="reset" class="md-icon md-search__icon" data-md-component="reset">&#xE5CD;</button>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
     </form>
     <div class="md-search__output">
       <div class="md-search__scrollwrap" data-md-scrollfix>
@@ -133,6 +145,41 @@
       
         
       
+      
+        
+
+<nav class="md-tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href=".." title="Home" class="md-tabs__link md-tabs__link--active">
+        Home
+      </a>
+    
+  </li>
+
+      
+        
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../devposts/devposts1/" title="Dev Posts" class="md-tabs__link">
+          Dev Posts
+        </a>
+      
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
       
       <main class="md-main">
         <div class="md-main__inner md-grid" data-md-component="container">
@@ -198,32 +245,34 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#2016-2017" title="(2016 - 2017)" class="md-nav__link">
-    (2016 - 2017)
+  <a href="#state-university-of-new-york-university-at-buffalo" title="State University of New York, University at Buffalo" class="md-nav__link">
+    State University of New York, University at Buffalo
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#2014-2016" title="(2014 - 2016)" class="md-nav__link">
-    (2014 - 2016)
+  <a href="#compro-technologies-software-engineer" title="Compro Technologies - Software Engineer" class="md-nav__link">
+    Compro Technologies - Software Engineer
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#2013-2014" title="(2013 - 2014)" class="md-nav__link">
-    (2013 - 2014)
+  <a href="#national-university-of-singapore-researcher-intern" title="National University of Singapore - Researcher, Intern" class="md-nav__link">
+    National University of Singapore - Researcher, Intern
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#2009-2013" title="(2009 - 2013)" class="md-nav__link">
-    (2009 - 2013)
+  <a href="#nit-hamirpur" title="NIT Hamirpur" class="md-nav__link">
+    NIT Hamirpur
   </a>
   
 </li>
+      
+      
       
       
       
@@ -231,6 +280,42 @@
   
 </nav>
     
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item md-nav__item--nested">
+    
+      <input class="md-toggle md-nav__toggle" data-md-toggle="nav-3" type="checkbox" id="nav-3">
+    
+    <label class="md-nav__link" for="nav-3">
+      Dev Posts
+    </label>
+    <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
+      <label class="md-nav__title" for="nav-3">
+        Dev Posts
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../devposts/devposts1/" title="DP/Pg/I" class="md-nav__link">
+      DP/Pg/I
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
   </li>
 
     
@@ -255,32 +340,34 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#2016-2017" title="(2016 - 2017)" class="md-nav__link">
-    (2016 - 2017)
+  <a href="#state-university-of-new-york-university-at-buffalo" title="State University of New York, University at Buffalo" class="md-nav__link">
+    State University of New York, University at Buffalo
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#2014-2016" title="(2014 - 2016)" class="md-nav__link">
-    (2014 - 2016)
+  <a href="#compro-technologies-software-engineer" title="Compro Technologies - Software Engineer" class="md-nav__link">
+    Compro Technologies - Software Engineer
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#2013-2014" title="(2013 - 2014)" class="md-nav__link">
-    (2013 - 2014)
+  <a href="#national-university-of-singapore-researcher-intern" title="National University of Singapore - Researcher, Intern" class="md-nav__link">
+    National University of Singapore - Researcher, Intern
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#2009-2013" title="(2009 - 2013)" class="md-nav__link">
-    (2009 - 2013)
+  <a href="#nit-hamirpur" title="NIT Hamirpur" class="md-nav__link">
+    NIT Hamirpur
   </a>
   
 </li>
+      
+      
       
       
       
@@ -298,20 +385,59 @@
                 
                 
                 <h1 id="timeline">Timeline<a class="headerlink" href="#timeline" title="Permanent link">&para;</a></h1>
-<h2 id="2016-2017">(2016 - 2017)<a class="headerlink" href="#2016-2017" title="Permanent link">&para;</a></h2>
 <p><img alt="✨" class="emojione" src="https://cdn.jsdelivr.net/emojione/assets/svg/2728.svg" title=":sparkles:" /></p>
-<h2 id="2014-2016">(2014 - 2016)<a class="headerlink" href="#2014-2016" title="Permanent link">&para;</a></h2>
-<p><img alt="✨" class="emojione" src="https://cdn.jsdelivr.net/emojione/assets/svg/2728.svg" title=":sparkles:" /></p>
-<h2 id="2013-2014">(2013 - 2014)<a class="headerlink" href="#2013-2014" title="Permanent link">&para;</a></h2>
-<p><img alt="✨" class="emojione" src="https://cdn.jsdelivr.net/emojione/assets/svg/2728.svg" title=":sparkles:" /></p>
-<h2 id="2009-2013">(2009 - 2013)<a class="headerlink" href="#2009-2013" title="Permanent link">&para;</a></h2>
-<p><img alt="✨" class="emojione" src="https://cdn.jsdelivr.net/emojione/assets/svg/2728.svg" title=":sparkles:" /></p>
+<h4 id="state-university-of-new-york-university-at-buffalo">State University of New York, University at Buffalo<a class="headerlink" href="#state-university-of-new-york-university-at-buffalo" title="Permanent link">&para;</a></h4>
+<div class="admonition info">
+<p class="admonition-title">Buffalo, New York : August 2014 - February 2016</p>
+<ul>
+<li>GPA 3.86/4</li>
+<li>Masters in Computer Science</li>
+<li><strong>Highlights</strong><ul>
+<li>Coursework focus area: Artificial Intelligence and Machine Learning</li>
+</ul>
+</li>
+</ul>
+</div>
+<h4 id="compro-technologies-software-engineer">Compro Technologies - Software Engineer<a class="headerlink" href="#compro-technologies-software-engineer" title="Permanent link">&para;</a></h4>
+<div class="admonition info">
+<p class="admonition-title">New Delhi, India : August 2013 - July 2014</p>
+<ul>
+<li>MyITLab Sims project</li>
+<li>//TODO</li>
+</ul>
+</div>
+<h4 id="national-university-of-singapore-researcher-intern">National University of Singapore - Researcher, Intern<a class="headerlink" href="#national-university-of-singapore-researcher-intern" title="Permanent link">&para;</a></h4>
+<div class="admonition info">
+<p class="admonition-title">Singapore : May 2012 - July 2012</p>
+<ul>
+<li>Summer Intern at Solar Energy Research Institute of Singapore @ NUS, Singapore</li>
+<li>Worked on Raytracing of Solar Cells, to comeup with an effective implementation for simulating
+light trapping effeciency in solar cell models, involved mathematical, algorithm modeling</li>
+<li>Relied on C++ for extensibilty and better performance for the implementation</li>
+</ul>
+</div>
+<h4 id="nit-hamirpur">NIT Hamirpur<a class="headerlink" href="#nit-hamirpur" title="Permanent link">&para;</a></h4>
+<div class="admonition info">
+<p class="admonition-title">Hamirpur, India : August 2009 - May 2013</p>
+<ul>
+<li>GPA 7.5/10</li>
+<li>Bachelors of Technology, Electronics and Communication Engineering</li>
+<li><strong>Highlights</strong><ul>
+<li>Directorate of Technical Education Scholarship Holder</li>
+<li>Co-convener INS &amp; Controls</li>
+<li>Vice captain departmental team, soccer</li>
+</ul>
+</li>
+</ul>
+</div>
                 
                   
                 
               
               
                 
+
+
               
             </article>
           </div>
@@ -339,6 +465,20 @@
           </a>
         
         
+          <a href="../devposts/devposts1/" title="DP/Pg/I" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                DP/Pg/I
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
       </nav>
     </div>
   
@@ -365,9 +505,9 @@
       
     </div>
     
-      <script src="../assets/javascripts/application.6cdc17f0.js"></script>
+      <script src="../assets/javascripts/application.b438e6c5.js"></script>
       
-      <script>app.initialize({version:"0.17.2",url:{base:".."}})</script>
+      <script>app.initialize({version:"0.17.3",url:{base:".."}})</script>
       
         <script src="https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js"></script>
       

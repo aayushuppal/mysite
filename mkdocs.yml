@@ -1,8 +1,14 @@
-# repo_name: aayushuppal/mysite
-# repo_url: https://github.com/aayushuppal/mysite
-
+# Site
 site_name: Aayush Uppal
 copyright: '© Aayush Uppal'
+site_description: Aayush Uppal Blog & Personal Website
+site_author: Aayush Uppal
+site_url: https://aayushuppal.github.io/mysite
+
+# Repository
+# repo_name: aayushuppal/mysite
+# repo_url: https://github.com/aayushuppal/mysite
+# edit_uri: blob/master/docs/
 
 extra_css:
   - 'stylesheets/flexboxgrid.min.css'

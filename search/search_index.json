@@ -27,7 +27,7 @@
         },
         {
             "location": "/profile/",
-            "text": "Timeline\n\u00b6\n\n\n\n\nState University of New York, University at Buffalo\n\u00b6\n\n\n\n\nBuffalo, New York : August 2014 - February 2016\n\n\n\n\nGPA 3.86/4\n\n\nMasters in Computer Science\n\n\nHighlights\n\n\nCoursework focus area: Artificial Intelligence and Machine Learning\n\n\n\n\n\n\n\n\n\n\nCompro Technologies - Software Engineer\n\u00b6\n\n\n\n\nNew Delhi, India : August 2013 - July 2014\n\n\n\n\nMyITLab Sims project\n\n\n//TODO\n\n\n\n\n\n\nNational University of Singapore - Researcher, Intern\n\u00b6\n\n\n\n\nSingapore : May 2012 - July 2012\n\n\n\n\nSummer Intern at Solar Energy Research Institute of Singapore @ NUS, Singapore\n\n\nWorked on Raytracing of Solar Cells, to comeup with an effective implementation for simulating\nlight trapping effeciency in solar cell models, involved mathematical, algorithm modeling\n\n\nRelied on C++ for extensibilty and better performance for the implementation\n\n\n\n\n\n\nNIT Hamirpur\n\u00b6\n\n\n\n\nHamirpur, India : August 2009 - May 2013\n\n\n\n\nGPA 7.5/10\n\n\nBachelors of Technology, Electronics and Communication Engineering\n\n\nHighlights\n\n\nDirectorate of Technical Education Scholarship Holder\n\n\nCo-convener INS & Controls\n\n\nVice captain departmental team, soccer",
+            "text": "Timeline\n\u00b6\n\n\n\n\nWork\n\u00b6\n\n\nBloomberg - Software Engineer\n\u00b6\n\n\n\n\nNew York, NY : May 2016 - Present\n\n\n\n\n//TODO\n\n\n\n\n\n\nCompro Technologies - Software Engineer\n\u00b6\n\n\n\n\nNew Delhi, India : August 2013 - July 2014\n\n\n\n\nMyITLab Sims project\n\n\n//TODO\n\n\n\n\n\n\nNational University of Singapore - Researcher, Intern\n\u00b6\n\n\n\n\nSingapore : May 2012 - July 2012\n\n\n\n\nSummer Intern at Solar Energy Research Institute of Singapore @ NUS, Singapore\n\n\nWorked on Raytracing of Solar Cells, to comeup with an effective implementation for simulating\nlight trapping effeciency in solar cell models, involved mathematical, algorithm modeling\n\n\nRelied on C++ for extensibilty and better performance for the implementation\n\n\n\n\n\n\nEducation\n\u00b6\n\n\nState University of New York, University at Buffalo\n\u00b6\n\n\n\n\nBuffalo, New York : August 2014 - February 2016\n\n\n\n\nMasters in Computer Science\n\n\nGPA \n3.86/4\n\n\nHighlights\n\n\nCoursework focus: Distributed Systems, Artificial Intelligence and Machine Learning\n\n\nProjects\n\n\nSemantic labeling of Images\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNIT Hamirpur\n\u00b6\n\n\n\n\nHamirpur, India : August 2009 - May 2013\n\n\n\n\nBachelors of Technology, Electronics and Communication Engineering\n\n\nGPA \n7.5/10\n\n\nHighlights\n\n\nDirectorate of Technical Education Scholarship Holder\n\n\nCo-convener INS & Controls\n\n\nVice captain departmental team, soccer",
             "title": "Profile"
         },
         {
@@ -36,9 +36,14 @@
             "title": "Timeline"
         },
         {
-            "location": "/profile/#state-university-of-new-york-university-at-buffalo",
-            "text": "Buffalo, New York : August 2014 - February 2016   GPA 3.86/4  Masters in Computer Science  Highlights  Coursework focus area: Artificial Intelligence and Machine Learning",
-            "title": "State University of New York, University at Buffalo"
+            "location": "/profile/#work",
+            "text": "",
+            "title": "Work"
+        },
+        {
+            "location": "/profile/#bloomberg-software-engineer",
+            "text": "New York, NY : May 2016 - Present   //TODO",
+            "title": "Bloomberg - Software Engineer"
         },
         {
             "location": "/profile/#compro-technologies-software-engineer",
@@ -51,19 +56,34 @@
             "title": "National University of Singapore - Researcher, Intern"
         },
         {
+            "location": "/profile/#education",
+            "text": "",
+            "title": "Education"
+        },
+        {
+            "location": "/profile/#state-university-of-new-york-university-at-buffalo",
+            "text": "Buffalo, New York : August 2014 - February 2016   Masters in Computer Science  GPA  3.86/4  Highlights  Coursework focus: Distributed Systems, Artificial Intelligence and Machine Learning  Projects  Semantic labeling of Images",
+            "title": "State University of New York, University at Buffalo"
+        },
+        {
             "location": "/profile/#nit-hamirpur",
-            "text": "Hamirpur, India : August 2009 - May 2013   GPA 7.5/10  Bachelors of Technology, Electronics and Communication Engineering  Highlights  Directorate of Technical Education Scholarship Holder  Co-convener INS & Controls  Vice captain departmental team, soccer",
+            "text": "Hamirpur, India : August 2009 - May 2013   Bachelors of Technology, Electronics and Communication Engineering  GPA  7.5/10  Highlights  Directorate of Technical Education Scholarship Holder  Co-convener INS & Controls  Vice captain departmental team, soccer",
             "title": "NIT Hamirpur"
         },
         {
             "location": "/devposts/devposts1/",
-            "text": "Dev Posts\n\u00b6\n\n\nThe wild west of email threads\n\u00b6\n\n\nFebruary 2018\n\n\n\n\n//TODO\n\n\n\n\n\n\nStreaming analytics on logs\n\u00b6\n\n\n2017\n\n\ndistributed systems\n \nlogging\n \nApache Spark\n \nSpark Streaming\n    \n\n\n\n\nI had been wanting to experiment with the spark streaming framework for a while now, ever since I first got my hands on with the\nspark framework itself to work on a lifecycle analysis application that processed over a TB of data and generated meaningful\nclustered outputs.\n\n\nSpark Streaming for the uninitiated is a powerful platform that enables realtime analysis.\n\n\nThe Problem at hand:\n\nI am sure many developers in this day and age have at some point or the other run into a situation losing\ncontext ever so often while debugging an error or an anomalous behaviour trying to keep track of one identifier for incoming request\nmapped to second and that mapped to the third just to see where in all the event went through and processed in its lifecycle. \nIt particularly becomes even harder when your system is event driven and maintains state for decision making.\n\n\nSo here's what I decided to do. Build a spark streaming application that reads logs from multiple services in realtime from a message queue.\nProcess it in memory up until the corresponding event/request context expires. Aggregate all required information for that particular event \ninto a user defined structured data type. Define trigger conditions for alerts and dumps of error/warn and pass the object containing all the\nlogically mapped info for the program/developer to analyse.\n\n\nThis is what the POC pipeline looked like.\n\n[insert basic pipeline sequence diagram]",
+            "text": "Dev Posts\n\u00b6\n\n\nBuilding with React & NextJS\n\u00b6\n\n\nMarch 2018\n\n\n\n\n//TODO\n\n\n\n\nThe wild west of email threads\n\u00b6\n\n\nFebruary 2018\n\n\n\n\n//TODO\n\n\n\n\n\n\nStreaming analytics on logs\n\u00b6\n\n\n2017\n\n\ndistributed systems\n \nlogging\n \nApache Spark\n \nSpark Streaming\n    \n\n\n\n\nI had been wanting to experiment with the spark streaming framework for a while now, ever since I first got my hands on with the\nspark framework itself to work on a lifecycle analysis application that processed over a TB of data and generated meaningful\nclustered outputs.\n\n\nSpark Streaming for the uninitiated is a powerful platform that enables realtime analysis.\n\n\nThe Problem at hand:\n\nI am sure many developers in this day and age have at some point or the other run into a situation losing\ncontext ever so often while debugging an error or an anomalous behaviour trying to keep track of one identifier for incoming request\nmapped to second and that mapped to the third just to see where in all the event went through and processed in its lifecycle. \nIt particularly becomes even harder when your system is event driven and maintains state for decision making.\n\n\nSo here's what I decided to do. Build a spark streaming application that reads logs from multiple services in realtime from a message queue.\nProcess it in memory up until the corresponding event/request context expires. Aggregate all required information for that particular event \ninto a user defined structured data type. Define trigger conditions for alerts and dumps of error/warn and pass the object containing all the\nlogically mapped info for the program/developer to analyse.\n\n\nThis is what the POC pipeline looked like.\n\n[insert basic pipeline sequence diagram]",
             "title": "DP/Pg/I"
         },
         {
             "location": "/devposts/devposts1/#dev-posts",
             "text": "",
             "title": "Dev Posts"
+        },
+        {
+            "location": "/devposts/devposts1/#building-with-react-nextjs",
+            "text": "March 2018   //TODO",
+            "title": "Building with React &amp; NextJS"
         },
         {
             "location": "/devposts/devposts1/#the-wild-west-of-email-threads",

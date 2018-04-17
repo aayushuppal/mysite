@@ -5,7 +5,7 @@
 ### Bloomberg - Software Engineer
 
 <div class="profLogo">
-<img class="" alt="Bloomberg LP" src="/img/blp.png">
+<img class="" alt="Bloomberg LP" src="../img/blp.png">
 </div>
 
 !!! info "New York, NY : May 2016 - Present"
@@ -19,7 +19,7 @@
 ### Amazon - Software Development Engineer, Intern
 
 <div class="profLogo">
-<img class="" alt="Amazon Web Services" src="/img/aws.png">
+<img class="" alt="Amazon Web Services" src="../img/aws.png">
 </div>
 !!! info "Seattle, WA : May 2015 - August 2015"
     - Worked on designing a Pipeline based on TCP Anycast for experimental requests, reduced IP space consumption and performance analysis.
@@ -38,7 +38,7 @@
 ### Compro Technologies - Software Engineer
 
 <div class="profLogo">
-<img class="" alt="Compro Technologies" src="/img/compro.png">
+<img class="" alt="Compro Technologies" src="../img/compro.png">
 </div>
 
 !!! info "New Delhi, India : August 2013 - July 2014"
@@ -52,7 +52,7 @@
 ### National University of Singapore - Researcher, Intern
 
 <div class="profLogo">
-<img class="" alt="NUS" src="/img/nus.png">
+<img class="" alt="NUS" src="../img/nus.png">
 </div>
 
 !!! info "Singapore : May 2012 - July 2012"
@@ -67,7 +67,7 @@
 ### State University of New York, University at Buffalo
 
 <div class="profLogo">
-<img class="" alt="SUNY Buffalo" src="/img/ub.png">
+<img class="" alt="SUNY Buffalo" src="../img/ub.png">
 </div>
 
 !!! info "Buffalo, New York : August 2014 - February 2016"
@@ -93,7 +93,7 @@
 ### NIT Hamirpur
 
 <div class="profLogo">
-<img class="" alt="National Institute of Technology Hamirpur" src="/img/nith.png">
+<img class="" alt="National Institute of Technology Hamirpur" src="../img/nith.png">
 </div>
 
 !!! info "Hamirpur, India : August 2009 - May 2013"

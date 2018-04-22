@@ -3,11 +3,11 @@ site_name: Aayush Uppal
 copyright: '© Aayush Uppal'
 site_description: Aayush Uppal Blog & Personal Website
 site_author: Aayush Uppal
-site_url: https://aayushuppal.github.io/mysite
+site_url: https://aayushuppal.github.io/site
 
 # Repository
-# repo_name: aayushuppal/mysite
-# repo_url: https://github.com/aayushuppal/mysite
+# repo_name: aayushuppal/site
+# repo_url: https://github.com/aayushuppal/site
 # edit_uri: blob/master/docs/
 
 extra_css:

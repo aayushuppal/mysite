@@ -69,6 +69,11 @@ pages:
   - Home: index.md
   - Profile: profile.md
   - Extras: extras.md
+  - Lists: lists.md
+  - Contact: contact.md
 
   - Dev Posts:
     - DP/Pg/I: devposts/devposts1.md 
+
+  - Blog:
+    - Kangra Valley Train: blog/kangra-valley-train.md

@@ -9,7 +9,7 @@
 <p class="pText">
 A thread dedicated to sharing pictures, putting in words the appreciation for my backyard, the mighty Himalayas: The last frontier, the king of all mountains.
 </p>
-<a class="textLink" href="#"><b><u>&#128279; Link</u></b></a>
+<a class="textLink" href="/blog/kangra-valley-train"><b><u>&#128279; Link</u></b></a>
 <br/>
 <span class="minText tags">Himalayas</span>
 <span class="minText tags">Mountains</span>
@@ -22,3 +22,4 @@ A thread dedicated to sharing pictures, putting in words the appreciation for my
 
 ##  Podcasts
 -  [BBC - Thinking Allowed](http://www.bbc.co.uk/programmes/b006qy05): New research on how society works. `Sociology`
+-  [Matters of State](http://www.mattersofstate.org): A podcast on International realtions and politics. `International Relations` `Politics`

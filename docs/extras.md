@@ -3,10 +3,7 @@
 ##  The Mountains
 
 <div class="boximg1">
-<img class="" alt="Dahuladhar Himachal Pradesh" src="../img/dhauladhars_thumbnail.jpg">
-</div>
-<div class="boximg1">
-<img class="" alt="Dahuladhar Himachal Pradesh" src="../img/kangra_train_thumbnail.jpg">
+<img class="" alt="Dahuladhar Himachal Pradesh" src="../img/mountains_thumb.png">
 </div>
 <div class="boxtxt1">
 <p class="pText">

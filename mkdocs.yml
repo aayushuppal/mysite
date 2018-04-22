@@ -68,6 +68,7 @@ theme:
 pages:
   - Home: index.md
   - Profile: profile.md
+  - Extras: extras.md
 
   - Dev Posts:
     - DP/Pg/I: devposts/devposts1.md 

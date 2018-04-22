@@ -1,6 +1,6 @@
 # Profile
 
-##  Work
+##  **> Work**
 
 ### Bloomberg - Software Engineer
 
@@ -30,6 +30,10 @@
     - Skills: Linux shell scripting, Perl, Java, Python, Kinesis, Elastic Map Reduce, Hive
 
 ### SubBoard Inc | University at Buffalo - Student Assistantship, Web Developer
+
+<div class="profLogo">
+<img class="" alt="SUNY Buffalo" src="../img/ub.png">
+</div>
 
 !!! info "Buffalo, NY : Oct 2014 - Dec 2015"
     - Worked as Web Admin anfd developer for SubBoard Web Portal.
@@ -62,7 +66,7 @@
     - Relied on C++ for extensibilty and better performance for the implementation
     - [Raytracing for Solar Cells](#)
 
-## Education
+## **> Education**
 
 ### State University of New York, University at Buffalo
 

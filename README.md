@@ -1,3 +1,3 @@
-# mysite
+# site
 
-- [Link](https://aayushuppal.github.io/mysite/)
+- [Link](https://aayushuppal.github.io/site)

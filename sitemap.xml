@@ -26,9 +26,35 @@
     
 
     
+    <url>
+     <loc>https://aayushuppal.github.io/mysite/lists/</loc>
+     <lastmod>2018-04-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://aayushuppal.github.io/mysite/contact/</loc>
+     <lastmod>2018-04-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
         
     <url>
      <loc>https://aayushuppal.github.io/mysite/devposts/devposts1/</loc>
+     <lastmod>2018-04-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>https://aayushuppal.github.io/mysite/blog/kangra-valley-train/</loc>
      <lastmod>2018-04-22</lastmod>
      <changefreq>daily</changefreq>
     </url>

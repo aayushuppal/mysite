@@ -4,7 +4,7 @@
     
     <url>
      <loc>https://aayushuppal.github.io/mysite/</loc>
-     <lastmod>2018-04-16</lastmod>
+     <lastmod>2018-04-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,7 +12,15 @@
     
     <url>
      <loc>https://aayushuppal.github.io/mysite/profile/</loc>
-     <lastmod>2018-04-16</lastmod>
+     <lastmod>2018-04-22</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://aayushuppal.github.io/mysite/extras/</loc>
+     <lastmod>2018-04-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -21,7 +29,7 @@
         
     <url>
      <loc>https://aayushuppal.github.io/mysite/devposts/devposts1/</loc>
-     <lastmod>2018-04-16</lastmod>
+     <lastmod>2018-04-22</lastmod>
      <changefreq>daily</changefreq>
     </url>
         

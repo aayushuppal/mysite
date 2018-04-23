@@ -50,6 +50,9 @@ markdown_extensions:
 
 theme:
   name: 'material'
+  palette:
+    primary: 'white'
+    accent: 'indigo'
   favicon: 'img/favicon.ico'
   logo:
     icon: 'explore'

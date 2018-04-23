@@ -16,6 +16,8 @@ A Software Engineer , currently working for <a href="https://www.bloomberg.com/c
 I am passionate about **Distributed Systems**, **Data Science**, **Machine Learning** and in process building high performance
 , reliable backend systems to leverage those capabilities to the maximum and derive the best insight possible.
 
+- [Profile](profile)
+- [Resume](profile)
 
 ***
 

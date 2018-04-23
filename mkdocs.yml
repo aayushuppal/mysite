@@ -10,8 +10,6 @@ site_url: https://aayushuppal.github.io/site
 # repo_url: https://github.com/aayushuppal/site
 # edit_uri: blob/master/docs/
 
-google_analytics: ['UA-118033019-1', 'aayushuppal.github.io/site']
-
 extra_css:
   - 'stylesheets/flexboxgrid.min.css'
   - 'stylesheets/extra.css'
@@ -69,6 +67,10 @@ theme:
   font:
     text: Monospace
     code: Monospace
+
+google_analytics:
+  - 'UA-118033019-1'
+  - 'auto'
   
 pages:
   - Home: index.md

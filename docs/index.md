@@ -42,3 +42,5 @@ reliable backend systems to leverage those capabilities to the maximum and deriv
         * Check out my thread dedicated to the amazing place. [Link](#)
     
     - Amongst other things: A passion for Football and the Blues Guitar, usually gets me through some of my days.
+
+[^1]: Last Updated: `2018-04-22`

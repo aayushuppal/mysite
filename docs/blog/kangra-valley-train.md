@@ -2,7 +2,7 @@
 
 ![Kangra Valley Train](../img/the_kangra_valley_train.jpg "Kangra Valley Train")
 
-_Credits: Premola Ghose, Ram Rahman. [Link to Book](https://www.amazon.in/dp/9385285416)_
+`2018-04-22` | _Credits: Premola Ghose, Ram Rahman. [Link to Book](https://www.amazon.in/dp/9385285416)_
 
 !!! quote "..."
     If you think of it, a picture is a 3D space representation. It spans across time with the idea it captures across the literal distance it maps on to the canvas and well nothing brings this idea to more prominence than this picture above.

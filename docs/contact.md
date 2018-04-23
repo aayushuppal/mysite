@@ -7,3 +7,5 @@ You can get in touch or find me at:
 - [@BitBucket](https://bitbucket.org/aayushuppal)
 - [@Twitter](https://twitter.com/aayushuppal)
 - Email: <aayuppal@gmail.com>
+
+[^1]: Last Updated: `2018-04-22`

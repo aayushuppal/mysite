@@ -41,3 +41,5 @@
     [insert basic pipeline sequence diagram]
 
 ***
+
+[^1]: Last Updated: `2018-04-22`

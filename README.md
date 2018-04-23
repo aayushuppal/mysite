@@ -1,3 +1,3 @@
 # site
 
-- [Link](https://aayushuppal.github.io/site)
+- [Personal Website](https://aayushuppal.github.io/site)

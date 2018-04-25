@@ -4,7 +4,7 @@
 
 - [Personal Website](https://aayushuppal.github.io/site)
 
-## Dev
+## Dev Notes
 
 - [markdownlint extension](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - [markdownlint Rules](https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md)

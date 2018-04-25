@@ -1,3 +1,8 @@
+img[src$="centerme"] {
+    display:block;
+    margin: 0 auto;
+}
+
 .textLink {
     color: white !important;
     background: black;

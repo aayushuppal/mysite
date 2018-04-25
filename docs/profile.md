@@ -1,6 +1,8 @@
+<!-- markdownlint-disable MD033 -->
+
 # Profile
 
-##  **> Work**
+## **> Work**
 
 ### Bloomberg - Software Engineer
 
@@ -9,6 +11,7 @@
 </div>
 
 !!! info "New York, NY : May 2016 - Present"
+
     - Working as Software Engineer in Internal Systems and Web Applications group.
     - Highlights
         - Apache Spark based lifecycle analysis
@@ -22,10 +25,14 @@
 <img class="" alt="Amazon Web Services" src="../img/aws.png">
 </div>
 !!! info "Seattle, WA : May 2015 - August 2015"
-    - Worked on designing a Pipeline based on TCP Anycast for experimental requests, reduced IP space consumption and performance analysis.
-    - Configured Anycast on a massive distributed network. Setup a pipeline to send requests via TCP Anycast to CDN cache servers.
+
+    - Worked on designing a Pipeline based on TCP Anycast for experimental requests, reduced IP space consumption and
+    performance analysis.
+    - Configured Anycast on a massive distributed network. Setup a pipeline to send requests via TCP Anycast to CDN
+    cache servers.
     - Collected RTT readings and setup Kinesis pipeline for processing.
-    - Wrote a Package for automated daily processing of day’s RTT data and to generate comparative analysis reports between TCP Anycast and Latency Routing.
+    - Wrote a Package for automated daily processing of day’s RTT data and to generate comparative analysis reports
+    between TCP Anycast and Latency Routing.
     - Key aspects: Object oriented design, multi-threaded programming, Big Data, Cloud Computing.
     - Skills: Linux shell scripting, Perl, Java, Python, Kinesis, Elastic Map Reduce, Hive
 
@@ -36,8 +43,10 @@
 </div>
 
 !!! info "Buffalo, NY : Oct 2014 - Dec 2015"
+
     - Worked as Web Admin anfd developer for SubBoard Web Portal.
-    - Key aspects: complete ownership - architecture, design, and maintainence of systems. Skills: MySQL, Server Administration, Amazon Web Services, Wordpress
+    - Key aspects: complete ownership - architecture, design, and maintainence of systems. Skills: MySQL, Server
+    Administration, Amazon Web Services, Wordpress
 
 ### Compro Technologies - Software Engineer
 
@@ -46,12 +55,13 @@
 </div>
 
 !!! info "New Delhi, India : August 2013 - July 2014"
+
     - [MyITLab Sims project](https://www.pearsonmylabandmastering.com/northamerica/myitlab/)
-        - Cloud based HTML5 component development of MS Excel, MS PowerPoint features. Developed key components for web module including drawing pane, grid functionalities and graph components.
+        - Cloud based HTML5 component development of MS Excel, MS PowerPoint features. Developed key components for web
+        module including drawing pane, grid functionalities and graph components.
         - This product is an industry leading training and assessment tool for professional and higher education segments.
         - Key aspects: Agile development, testing, web services, object oriented analysis and design.
         - Skills: Java, JavaScript, jQuery, SQL, HTML5, CSS
-
 
 ### National University of Singapore - Researcher, Intern
 
@@ -60,6 +70,7 @@
 </div>
 
 !!! info "Singapore : May 2012 - July 2012"
+
     - Summer Intern at Solar Energy Research Institute of Singapore @ NUS, Singapore
     - Worked on Raytracing of Solar Cells, to comeup with an effective implementation for simulating
     light trapping effeciency in solar cell models, involved mathematical, algorithm modeling
@@ -75,6 +86,7 @@
 </div>
 
 !!! info "Buffalo, New York : August 2014 - February 2016"
+
     - **Masters in Computer Science**
     - GPA **3.86/4**
     - **Highlights**
@@ -101,6 +113,7 @@
 </div>
 
 !!! info "Hamirpur, India : August 2009 - May 2013"
+
     - **Bachelors of Technology, Electronics and Communication Engineering**
     - GPA **7.5/10**
     - **Highlights**

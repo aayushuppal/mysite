@@ -1,7 +1,7 @@
 {
     "default": true,
-    "MD003": { "style": "atx" },
-    "MD007": { "indent": 4 },
-    "MD013": { "line_length": 120 },
-    "MD019": true
+    "header-style": { "style": "atx" },
+    "ul-indent": { "indent": 4 },
+    "line-length": { "line_length": 120 },
+    "no-multiple-space-atx": true
 }

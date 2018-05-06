@@ -3,5 +3,9 @@
     "header-style": { "style": "atx" },
     "ul-indent": { "indent": 4 },
     "line-length": { "line_length": 120 },
-    "no-multiple-space-atx": true
+    "no-multiple-space-atx": true,
+    "proper-names": {
+        "names": [
+        ]
+    }
 }

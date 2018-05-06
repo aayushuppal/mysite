@@ -6,7 +6,7 @@
 Hi, I'm Aayush Uppal.<br>
 A Software Engineer, currently working for <a href="https://www.bloomberg.com/company">Bloomberg</a> in New York City
 and a <a href="http://www.buffalo.edu">University at Buffalo</a>
-<a href="http://nith.ac.in">NIT Hamirpur</a> alumni.
+/ <a href="http://nith.ac.in">NIT Hamirpur</a> alumni.
 </div>
 
 <div class="box2">
@@ -15,8 +15,9 @@ and a <a href="http://www.buffalo.edu">University at Buffalo</a>
 </div>
 </div>
 
-I am passionate about **Distributed Systems**, **Data Science**, **Machine Learning** and in process building high performance,
-reliable backend systems to leverage those capabilities to the maximum and derive the best insight possible.
+As a Software Engineer I am passionate about high performance distributed systems and building applications that provide
+critical insight. Machine Learning / Data Science & Ditributed Systems go hand in hand for building valuable, robust,
+production quality applications and it is my attempt to leverage them together to achieve the same.
 
 - [Profile](profile)
 - [Resume](profile)
@@ -35,6 +36,10 @@ reliable backend systems to leverage those capabilities to the maximum and deriv
 !!! warning ""
 
     - Kangra Valley Train in the stunning backdrop of Dhauladhars. [link](blog/kangra-valley-train)
+    - A word on *opensource*
+        <blockquote class="twitter-tweet" data-lang="en">
+        <a href="https://twitter.com/bketelsen/status/986566694628986886"></a>
+        </blockquote>
 
 ## More About Me
 
@@ -47,3 +52,5 @@ reliable backend systems to leverage those capabilities to the maximum and deriv
     - Amongst other things: A passion for Football and the Blues Guitar, usually gets me through some of my days.
 
 [^1]: Last Updated: `2018-04-22`
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"/>

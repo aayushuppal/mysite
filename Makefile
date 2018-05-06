@@ -6,3 +6,6 @@ publish:
 
 stop:
 	pkill mkdocs
+
+depends:
+	pip install -r requirements.txt

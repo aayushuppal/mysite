@@ -1,178 +1,178 @@
 {
     "docs": [
         {
-            "location": "/",
-            "text": "Home\n\u00b6\n\n\n\nHi, I'm Aayush Uppal.\n\nA Software Engineer, currently working for \nBloomberg\n in New York City\nand a \nUniversity at Buffalo\n\n\nNIT Hamirpur\n alumni.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nI am passionate about \nDistributed Systems\n, \nData Science\n, \nMachine Learning\n and in process building high performance,\nreliable backend systems to leverage those capabilities to the maximum and derive the best insight possible.\n\n\n\n\nProfile\n\n\nResume\n\n\n\n\n\n\nCurrent Endeavors\n\u00b6\n\n\n\n\nBuilding ETL pipelines with Apache Spark.\n\n\nReal Time Analytics using Spark Streaming and Spark MLlib.\n\n\nUnderstanding Hyperledger and Blockchain.\n\n\nDwelling into the fullstack Javascript world with MEAN stack.\n\n\n\n\nFeatured\n\u00b6\n\n\n\n\n\n\nKangra Valley Train in the stunning backdrop of Dhauladhars. \nlink\n\n\n\n\n\n\nMore About Me\n\u00b6\n\n\n\n\n\n\n\n\nHome is where the Himalayas reside\n\n\n\n\nI grew up in a picturesque town on the edge of Himalayas. \nDharamshala\n\n\nCheck out my thread dedicated to the amazing place. \nLink\n\n\n\n\n\n\n\n\nAmongst other things: A passion for Football and the Blues Guitar, usually gets me through some of my days.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLast Updated: \n2018-04-22\n\u00a0\n\u21a9",
+            "location": "/", 
+            "text": "Home\n\n\n\nHi, I'm Aayush Uppal.\n\nA Software Engineer, currently working for \nBloomberg\n in New York City\nand a \nUniversity at Buffalo\n\n/ \nNIT Hamirpur\n alumni.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAs a Software Engineer I am passionate about high performance distributed systems and building applications that provide\ncritical insight. Machine Learning / Data Science \n Ditributed Systems go hand in hand for building valuable, robust,\nproduction quality applications and it is my attempt to leverage them together to achieve the same.\n\n\n\n\nProfile\n\n\nResume\n\n\n\n\n\n\nCurrent Endeavors\n\n\n\n\nBuilding modern scalable web apps on the cloud with React/Python.\n\n\nMachine learning for data science. \nData Science for Good\n\n\n\n\nFeatured\n\n\n\n\n\n\nKangra Valley Train in the stunning backdrop of Dhauladhars. \nlink\n\n\n\n\n\n\nMore About Me\n\n\n\n\n\n\nI grew up in a picturesque town on the edge of Himalayas. \nDharamshala\n\n\nCheck out my thread dedicated to the amazing place. \nLink\n\n\nAmongst other key interests: \nFootball\n, \nBlues Guitar\n\n\n\n\n\n\n\n\n Pinned\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLast Updated: \n2018-05-07", 
             "title": "Home"
-        },
+        }, 
         {
-            "location": "/#home",
-            "text": "Hi, I'm Aayush Uppal. \nA Software Engineer, currently working for  Bloomberg  in New York City\nand a  University at Buffalo  NIT Hamirpur  alumni.       I am passionate about  Distributed Systems ,  Data Science ,  Machine Learning  and in process building high performance,\nreliable backend systems to leverage those capabilities to the maximum and derive the best insight possible.   Profile  Resume",
+            "location": "/#home", 
+            "text": "Hi, I'm Aayush Uppal. \nA Software Engineer, currently working for  Bloomberg  in New York City\nand a  University at Buffalo \n/  NIT Hamirpur  alumni.       As a Software Engineer I am passionate about high performance distributed systems and building applications that provide\ncritical insight. Machine Learning / Data Science   Ditributed Systems go hand in hand for building valuable, robust,\nproduction quality applications and it is my attempt to leverage them together to achieve the same.   Profile  Resume", 
             "title": "Home"
-        },
+        }, 
         {
-            "location": "/#current-endeavors",
-            "text": "Building ETL pipelines with Apache Spark.  Real Time Analytics using Spark Streaming and Spark MLlib.  Understanding Hyperledger and Blockchain.  Dwelling into the fullstack Javascript world with MEAN stack.",
+            "location": "/#current-endeavors", 
+            "text": "Building modern scalable web apps on the cloud with React/Python.  Machine learning for data science.  Data Science for Good", 
             "title": "Current Endeavors"
-        },
+        }, 
         {
-            "location": "/#featured",
-            "text": "Kangra Valley Train in the stunning backdrop of Dhauladhars.  link",
+            "location": "/#featured", 
+            "text": "Kangra Valley Train in the stunning backdrop of Dhauladhars.  link", 
             "title": "Featured"
-        },
+        }, 
         {
-            "location": "/#more-about-me",
-            "text": "Home is where the Himalayas reside   I grew up in a picturesque town on the edge of Himalayas.  Dharamshala  Check out my thread dedicated to the amazing place.  Link     Amongst other things: A passion for Football and the Blues Guitar, usually gets me through some of my days.         Last Updated:  2018-04-22 \u00a0 \u21a9",
+            "location": "/#more-about-me", 
+            "text": "I grew up in a picturesque town on the edge of Himalayas.  Dharamshala  Check out my thread dedicated to the amazing place.  Link  Amongst other key interests:  Football ,  Blues Guitar      Pinned         Last Updated:  2018-05-07", 
             "title": "More About Me"
-        },
+        }, 
         {
-            "location": "/profile/",
-            "text": "Profile\n\u00b6\n\n\n> Work\n\u00b6\n\n\nBloomberg - Software Engineer\n\u00b6\n\n\n\n\n\n\n\n\n\n\n\nNew York, NY : May 2016 - Present\n\n\n\n\nWorking as Software Engineer in Internal Systems and Web Applications group.\n\n\nHighlights\n\n\nApache Spark based lifecycle analysis\n\n\nCommunication Systems Distributed backend systems, core feature and infrastructure\n\n\nTools for continuous integration and development, a generic oozie based hadoop job manager\n\n\n\n\n\n\nKey Aspects: Design and Development, C++, Python, Distributed Systems, Data Science, Apache Spark\n\n\n\n\n\n\nAmazon - Software Development Engineer, Intern\n\u00b6\n\n\n\n\n\n\n\n\n\n\n\nSeattle, WA : May 2015 - August 2015\n\n\n\n\nWorked on designing a Pipeline based on TCP Anycast for experimental requests, reduced IP space consumption and\nperformance analysis.\n\n\nConfigured Anycast on a massive distributed network. Setup a pipeline to send requests via TCP Anycast to CDN\ncache servers.\n\n\nCollected RTT readings and setup Kinesis pipeline for processing.\n\n\nWrote a Package for automated daily processing of day\u2019s RTT data and to generate comparative analysis reports\nbetween TCP Anycast and Latency Routing.\n\n\nKey aspects: Object oriented design, multi-threaded programming, Big Data, Cloud Computing.\n\n\nSkills: Linux shell scripting, Perl, Java, Python, Kinesis, Elastic Map Reduce, Hive\n\n\n\n\n\n\nSubBoard Inc | University at Buffalo - Student Assistantship, Web Developer\n\u00b6\n\n\n\n\n\n\n\n\n\n\n\nBuffalo, NY : Oct 2014 - Dec 2015\n\n\n\n\nWorked as Web Admin anfd developer for SubBoard Web Portal.\n\n\nKey aspects: complete ownership - architecture, design, and maintainence of systems. Skills: MySQL, Server\nAdministration, Amazon Web Services, Wordpress\n\n\n\n\n\n\nCompro Technologies - Software Engineer\n\u00b6\n\n\n\n\n\n\n\n\n\n\n\nNew Delhi, India : August 2013 - July 2014\n\n\n\n\nMyITLab Sims project\n\n\nCloud based HTML5 component development of MS Excel, MS PowerPoint features. Developed key components for web\nmodule including drawing pane, grid functionalities and graph components.\n\n\nThis product is an industry leading training and assessment tool for professional and higher education segments.\n\n\nKey aspects: Agile development, testing, web services, object oriented analysis and design.\n\n\nSkills: Java, JavaScript, jQuery, SQL, HTML5, CSS\n\n\n\n\n\n\n\n\n\n\nNational University of Singapore - Researcher, Intern\n\u00b6\n\n\n\n\n\n\n\n\n\n\n\nSingapore : May 2012 - July 2012\n\n\n\n\nSummer Intern at Solar Energy Research Institute of Singapore @ NUS, Singapore\n\n\nWorked on Raytracing of Solar Cells, to comeup with an effective implementation for simulating\nlight trapping effeciency in solar cell models, involved mathematical, algorithm modeling\n\n\nRelied on C++ for extensibilty and better performance for the implementation\n\n\nRaytracing for Solar Cells\n\n\n\n\n\n\n> Education\n\u00b6\n\n\nState University of New York, University at Buffalo\n\u00b6\n\n\n\n\n\n\n\n\n\n\n\nBuffalo, New York : August 2014 - February 2016\n\n\n\n\nMasters in Computer Science\n\n\nGPA \n3.86/4\n\n\nHighlights\n\n\nCoursework focus: Distributed Systems, Artificial Intelligence and Machine Learning\n\n\nProjects\n\n\nSemantic Labeling of Images using SVM and Markov Blanket\n\n\nAndroid Group Messenger\n\n\nClassification & Diabetes Level Prediction\n\n\nMood based songs playlist using EEG Signals\n\n\nNeural Network for Classification of Handwritten Digits\n\n\nDynamo style key value storage implementation\n\n\nBayes Localization for Robot Motion\n\n\nImage Processing: Photometric Stereo Toolbox Implementation\n\n\nDisparity & Depth estimation of Stereo view images using Dynamic Programming\n\n\nBoolean Query Search engine on news corpus\n\n\nAlumniConnect\n\n\nDistributed Hash Table\n\n\nNews Search Engine, Story Representation and Analytics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNIT Hamirpur\n\u00b6\n\n\n\n\n\n\n\n\n\n\n\nHamirpur, India : August 2009 - May 2013\n\n\n\n\nBachelors of Technology, Electronics and Communication Engineering\n\n\nGPA \n7.5/10\n\n\nHighlights\n\n\nDirectorate of Technical Education Scholarship Holder\n\n\nCo-convener INS & Controls\n\n\nTeam leader, Electronics and Communication Engineering\n\n\nExecutive Student Member, \nTIFAC Core Project\n\n\nDam Warning System using GSM\n\n\nPerformance Evaluation of WCDMA system\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLast Updated: \n2018-04-22\n\u00a0\n\u21a9",
+            "location": "/profile/", 
+            "text": "Profile\n\n\n Work\n\n\nBloomberg - Software Engineer\n\n\n\n\n\n\n\n\n\n\n\nNew York, NY : May 2016 - Present\n\n\n\n\nWorking as Software Engineer in Internal Systems and Web Applications group.\n\n\nHighlights\n\n\nApache Spark based lifecycle analysis\n\n\nCommunication Systems Distributed backend systems, core feature and infrastructure\n\n\nTools for continuous integration and development, a generic oozie based hadoop job manager\n\n\n\n\n\n\nKey Aspects: Design and Development, C++, Python, Distributed Systems, Data Science, Apache Spark\n\n\n\n\n\n\nAmazon - Software Development Engineer, Intern\n\n\n\n\n\n\n\n\n\n\n\nSeattle, WA : May 2015 - August 2015\n\n\n\n\nWorked on designing a Pipeline based on TCP Anycast for experimental requests, reduced IP space consumption and\nperformance analysis.\n\n\nConfigured Anycast on a massive distributed network. Setup a pipeline to send requests via TCP Anycast to CDN\ncache servers.\n\n\nCollected RTT readings and setup Kinesis pipeline for processing.\n\n\nWrote a Package for automated daily processing of day\u2019s RTT data and to generate comparative analysis reports\nbetween TCP Anycast and Latency Routing.\n\n\nKey aspects: Object oriented design, multi-threaded programming, Big Data, Cloud Computing.\n\n\nSkills: Linux shell scripting, Perl, Java, Python, Kinesis, Elastic Map Reduce, Hive\n\n\n\n\n\n\nSubBoard Inc | University at Buffalo - Student Assistantship, Web Developer\n\n\n\n\n\n\n\n\n\n\n\nBuffalo, NY : Oct 2014 - Dec 2015\n\n\n\n\nWorked as Web Admin anfd developer for SubBoard Web Portal.\n\n\nKey aspects: complete ownership - architecture, design, and maintainence of systems. Skills: MySQL, Server\nAdministration, Amazon Web Services, Wordpress\n\n\n\n\n\n\nCompro Technologies - Software Engineer\n\n\n\n\n\n\n\n\n\n\n\nNew Delhi, India : August 2013 - July 2014\n\n\n\n\nMyITLab Sims project\n\n\nCloud based HTML5 component development of MS Excel, MS PowerPoint features. Developed key components for web\nmodule including drawing pane, grid functionalities and graph components.\n\n\nThis product is an industry leading training and assessment tool for professional and higher education segments.\n\n\nKey aspects: Agile development, testing, web services, object oriented analysis and design.\n\n\nSkills: Java, JavaScript, jQuery, SQL, HTML5, CSS\n\n\n\n\n\n\n\n\n\n\nNational University of Singapore - Researcher, Intern\n\n\n\n\n\n\n\n\n\n\n\nSingapore : May 2012 - July 2012\n\n\n\n\nSummer Intern at Solar Energy Research Institute of Singapore @ NUS, Singapore\n\n\nWorked on Raytracing of Solar Cells, to comeup with an effective implementation for simulating\nlight trapping effeciency in solar cell models, involved mathematical, algorithm modeling\n\n\nRelied on C++ for extensibilty and better performance for the implementation\n\n\nRaytracing for Solar Cells\n\n\n\n\n\n\n Education\n\n\nState University of New York, University at Buffalo\n\n\n\n\n\n\n\n\n\n\n\nBuffalo, New York : August 2014 - February 2016\n\n\n\n\nMasters in Computer Science\n\n\nGPA \n3.86/4\n\n\nHighlights\n\n\nCoursework focus: Distributed Systems, Artificial Intelligence and Machine Learning\n\n\nProjects\n\n\nSemantic Labeling of Images using SVM and Markov Blanket\n\n\nAndroid Group Messenger\n\n\nClassification \n Diabetes Level Prediction\n\n\nMood based songs playlist using EEG Signals\n\n\nNeural Network for Classification of Handwritten Digits\n\n\nDynamo style key value storage implementation\n\n\nBayes Localization for Robot Motion\n\n\nImage Processing: Photometric Stereo Toolbox Implementation\n\n\nDisparity \n Depth estimation of Stereo view images using Dynamic Programming\n\n\nBoolean Query Search engine on news corpus\n\n\nAlumniConnect\n\n\nDistributed Hash Table\n\n\nNews Search Engine, Story Representation and Analytics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNIT Hamirpur\n\n\n\n\n\n\n\n\n\n\n\nHamirpur, India : August 2009 - May 2013\n\n\n\n\nBachelors of Technology, Electronics and Communication Engineering\n\n\nGPA \n7.5/10\n\n\nHighlights\n\n\nDirectorate of Technical Education Scholarship Holder\n\n\nCo-convener INS \n Controls\n\n\nTeam leader, Electronics and Communication Engineering\n\n\nExecutive Student Member, \nTIFAC Core Project\n\n\nDam Warning System using GSM\n\n\nPerformance Evaluation of WCDMA system\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLast Updated: \n2018-04-22", 
             "title": "Profile"
-        },
+        }, 
         {
-            "location": "/profile/#profile",
-            "text": "",
+            "location": "/profile/#profile", 
+            "text": "", 
             "title": "Profile"
-        },
+        }, 
         {
-            "location": "/profile/#work",
-            "text": "",
+            "location": "/profile/#work", 
+            "text": "", 
             "title": "&gt; Work"
-        },
+        }, 
         {
-            "location": "/profile/#bloomberg-software-engineer",
-            "text": "New York, NY : May 2016 - Present   Working as Software Engineer in Internal Systems and Web Applications group.  Highlights  Apache Spark based lifecycle analysis  Communication Systems Distributed backend systems, core feature and infrastructure  Tools for continuous integration and development, a generic oozie based hadoop job manager    Key Aspects: Design and Development, C++, Python, Distributed Systems, Data Science, Apache Spark",
+            "location": "/profile/#bloomberg-software-engineer", 
+            "text": "New York, NY : May 2016 - Present   Working as Software Engineer in Internal Systems and Web Applications group.  Highlights  Apache Spark based lifecycle analysis  Communication Systems Distributed backend systems, core feature and infrastructure  Tools for continuous integration and development, a generic oozie based hadoop job manager    Key Aspects: Design and Development, C++, Python, Distributed Systems, Data Science, Apache Spark", 
             "title": "Bloomberg - Software Engineer"
-        },
+        }, 
         {
-            "location": "/profile/#amazon-software-development-engineer-intern",
-            "text": "Seattle, WA : May 2015 - August 2015   Worked on designing a Pipeline based on TCP Anycast for experimental requests, reduced IP space consumption and\nperformance analysis.  Configured Anycast on a massive distributed network. Setup a pipeline to send requests via TCP Anycast to CDN\ncache servers.  Collected RTT readings and setup Kinesis pipeline for processing.  Wrote a Package for automated daily processing of day\u2019s RTT data and to generate comparative analysis reports\nbetween TCP Anycast and Latency Routing.  Key aspects: Object oriented design, multi-threaded programming, Big Data, Cloud Computing.  Skills: Linux shell scripting, Perl, Java, Python, Kinesis, Elastic Map Reduce, Hive",
+            "location": "/profile/#amazon-software-development-engineer-intern", 
+            "text": "Seattle, WA : May 2015 - August 2015   Worked on designing a Pipeline based on TCP Anycast for experimental requests, reduced IP space consumption and\nperformance analysis.  Configured Anycast on a massive distributed network. Setup a pipeline to send requests via TCP Anycast to CDN\ncache servers.  Collected RTT readings and setup Kinesis pipeline for processing.  Wrote a Package for automated daily processing of day\u2019s RTT data and to generate comparative analysis reports\nbetween TCP Anycast and Latency Routing.  Key aspects: Object oriented design, multi-threaded programming, Big Data, Cloud Computing.  Skills: Linux shell scripting, Perl, Java, Python, Kinesis, Elastic Map Reduce, Hive", 
             "title": "Amazon - Software Development Engineer, Intern"
-        },
+        }, 
         {
-            "location": "/profile/#subboard-inc-university-at-buffalo-student-assistantship-web-developer",
-            "text": "Buffalo, NY : Oct 2014 - Dec 2015   Worked as Web Admin anfd developer for SubBoard Web Portal.  Key aspects: complete ownership - architecture, design, and maintainence of systems. Skills: MySQL, Server\nAdministration, Amazon Web Services, Wordpress",
+            "location": "/profile/#subboard-inc-university-at-buffalo-student-assistantship-web-developer", 
+            "text": "Buffalo, NY : Oct 2014 - Dec 2015   Worked as Web Admin anfd developer for SubBoard Web Portal.  Key aspects: complete ownership - architecture, design, and maintainence of systems. Skills: MySQL, Server\nAdministration, Amazon Web Services, Wordpress", 
             "title": "SubBoard Inc | University at Buffalo - Student Assistantship, Web Developer"
-        },
+        }, 
         {
-            "location": "/profile/#compro-technologies-software-engineer",
-            "text": "New Delhi, India : August 2013 - July 2014   MyITLab Sims project  Cloud based HTML5 component development of MS Excel, MS PowerPoint features. Developed key components for web\nmodule including drawing pane, grid functionalities and graph components.  This product is an industry leading training and assessment tool for professional and higher education segments.  Key aspects: Agile development, testing, web services, object oriented analysis and design.  Skills: Java, JavaScript, jQuery, SQL, HTML5, CSS",
+            "location": "/profile/#compro-technologies-software-engineer", 
+            "text": "New Delhi, India : August 2013 - July 2014   MyITLab Sims project  Cloud based HTML5 component development of MS Excel, MS PowerPoint features. Developed key components for web\nmodule including drawing pane, grid functionalities and graph components.  This product is an industry leading training and assessment tool for professional and higher education segments.  Key aspects: Agile development, testing, web services, object oriented analysis and design.  Skills: Java, JavaScript, jQuery, SQL, HTML5, CSS", 
             "title": "Compro Technologies - Software Engineer"
-        },
+        }, 
         {
-            "location": "/profile/#national-university-of-singapore-researcher-intern",
-            "text": "Singapore : May 2012 - July 2012   Summer Intern at Solar Energy Research Institute of Singapore @ NUS, Singapore  Worked on Raytracing of Solar Cells, to comeup with an effective implementation for simulating\nlight trapping effeciency in solar cell models, involved mathematical, algorithm modeling  Relied on C++ for extensibilty and better performance for the implementation  Raytracing for Solar Cells",
+            "location": "/profile/#national-university-of-singapore-researcher-intern", 
+            "text": "Singapore : May 2012 - July 2012   Summer Intern at Solar Energy Research Institute of Singapore @ NUS, Singapore  Worked on Raytracing of Solar Cells, to comeup with an effective implementation for simulating\nlight trapping effeciency in solar cell models, involved mathematical, algorithm modeling  Relied on C++ for extensibilty and better performance for the implementation  Raytracing for Solar Cells", 
             "title": "National University of Singapore - Researcher, Intern"
-        },
+        }, 
         {
-            "location": "/profile/#education",
-            "text": "",
+            "location": "/profile/#education", 
+            "text": "", 
             "title": "&gt; Education"
-        },
+        }, 
         {
-            "location": "/profile/#state-university-of-new-york-university-at-buffalo",
-            "text": "Buffalo, New York : August 2014 - February 2016   Masters in Computer Science  GPA  3.86/4  Highlights  Coursework focus: Distributed Systems, Artificial Intelligence and Machine Learning  Projects  Semantic Labeling of Images using SVM and Markov Blanket  Android Group Messenger  Classification & Diabetes Level Prediction  Mood based songs playlist using EEG Signals  Neural Network for Classification of Handwritten Digits  Dynamo style key value storage implementation  Bayes Localization for Robot Motion  Image Processing: Photometric Stereo Toolbox Implementation  Disparity & Depth estimation of Stereo view images using Dynamic Programming  Boolean Query Search engine on news corpus  AlumniConnect  Distributed Hash Table  News Search Engine, Story Representation and Analytics",
+            "location": "/profile/#state-university-of-new-york-university-at-buffalo", 
+            "text": "Buffalo, New York : August 2014 - February 2016   Masters in Computer Science  GPA  3.86/4  Highlights  Coursework focus: Distributed Systems, Artificial Intelligence and Machine Learning  Projects  Semantic Labeling of Images using SVM and Markov Blanket  Android Group Messenger  Classification   Diabetes Level Prediction  Mood based songs playlist using EEG Signals  Neural Network for Classification of Handwritten Digits  Dynamo style key value storage implementation  Bayes Localization for Robot Motion  Image Processing: Photometric Stereo Toolbox Implementation  Disparity   Depth estimation of Stereo view images using Dynamic Programming  Boolean Query Search engine on news corpus  AlumniConnect  Distributed Hash Table  News Search Engine, Story Representation and Analytics", 
             "title": "State University of New York, University at Buffalo"
-        },
+        }, 
         {
-            "location": "/profile/#nit-hamirpur",
-            "text": "Hamirpur, India : August 2009 - May 2013   Bachelors of Technology, Electronics and Communication Engineering  GPA  7.5/10  Highlights  Directorate of Technical Education Scholarship Holder  Co-convener INS & Controls  Team leader, Electronics and Communication Engineering  Executive Student Member,  TIFAC Core Project  Dam Warning System using GSM  Performance Evaluation of WCDMA system          Last Updated:  2018-04-22 \u00a0 \u21a9",
+            "location": "/profile/#nit-hamirpur", 
+            "text": "Hamirpur, India : August 2009 - May 2013   Bachelors of Technology, Electronics and Communication Engineering  GPA  7.5/10  Highlights  Directorate of Technical Education Scholarship Holder  Co-convener INS   Controls  Team leader, Electronics and Communication Engineering  Executive Student Member,  TIFAC Core Project  Dam Warning System using GSM  Performance Evaluation of WCDMA system          Last Updated:  2018-04-22", 
             "title": "NIT Hamirpur"
-        },
+        }, 
         {
-            "location": "/extras/",
-            "text": "Extras\n\u00b6\n\n\nThe Mountains\n\u00b6\n\n\n\n\n\n\n\n\n\n\n\n\nA thread dedicated to sharing pictures, putting in words the appreciation for my backyard, the mighty Himalayas:\nThe last frontier, the king of all mountains.\n\n\n\n\ud83d\udd17 Link\n\n\n\n\nHimalayas\n\n\nMountains\n\n\nHimachal Pradesh\n\n\n\n\n\nReading List\n\u00b6\n\n\n\n\nThus Spake Zarathustra - Friedrich Nietzsche\n:\n    A book for None and All. Controversial and riveting, but the writing style takes some getting used to.\n    A tremendously influential philosophical work of the 19\nth\n century. \nPhilosophy\n \nMorality\n\n\n\n\nPodcasts\n\u00b6\n\n\n\n\nBBC - Thinking Allowed\n: New research on how society works. \nSociology\n\n\nMatters of State\n: A podcast on International realtions and politics.\n    \nInternational Relations\n \nPolitics\n\n\n\n\n\n\n\n\n\n\n\n\nLast Updated: \n2018-04-22\n\u00a0\n\u21a9",
+            "location": "/extras/", 
+            "text": "Extras\n\n\nThe Mountains\n\n\n\n\n\n\n\n\n\n\n\n\nA thread dedicated to sharing pictures, putting in words the appreciation for my backyard, the mighty Himalayas:\nThe last frontier, the king of all mountains.\n\n\n\n Link\n\n\n\n\nHimalayas\n\n\nMountains\n\n\nHimachal Pradesh\n\n\n\n\n\nReading List\n\n\n\n\nThus Spake Zarathustra - Friedrich Nietzsche\n:\n    A book for None and All. Controversial and riveting, but the writing style takes some getting used to.\n    A tremendously influential philosophical work of the 19\nth\n century. \nPhilosophy\n \nMorality\n\n\n\n\nPodcasts\n\n\n\n\nBBC - Thinking Allowed\n: New research on how society works. \nSociology\n\n\nMatters of State\n: A podcast on International realtions and politics.\n    \nInternational Relations\n \nPolitics\n\n\n\n\n\n\n\n\n\n\n\n\nLast Updated: \n2018-04-22", 
             "title": "Extras"
-        },
+        }, 
         {
-            "location": "/extras/#extras",
-            "text": "",
+            "location": "/extras/#extras", 
+            "text": "", 
             "title": "Extras"
-        },
+        }, 
         {
-            "location": "/extras/#the-mountains",
-            "text": "A thread dedicated to sharing pictures, putting in words the appreciation for my backyard, the mighty Himalayas:\nThe last frontier, the king of all mountains.  \ud83d\udd17 Link   Himalayas  Mountains  Himachal Pradesh",
+            "location": "/extras/#the-mountains", 
+            "text": "A thread dedicated to sharing pictures, putting in words the appreciation for my backyard, the mighty Himalayas:\nThe last frontier, the king of all mountains.   Link   Himalayas  Mountains  Himachal Pradesh", 
             "title": "The Mountains"
-        },
+        }, 
         {
-            "location": "/extras/#reading-list",
-            "text": "Thus Spake Zarathustra - Friedrich Nietzsche :\n    A book for None and All. Controversial and riveting, but the writing style takes some getting used to.\n    A tremendously influential philosophical work of the 19 th  century.  Philosophy   Morality",
+            "location": "/extras/#reading-list", 
+            "text": "Thus Spake Zarathustra - Friedrich Nietzsche :\n    A book for None and All. Controversial and riveting, but the writing style takes some getting used to.\n    A tremendously influential philosophical work of the 19 th  century.  Philosophy   Morality", 
             "title": "Reading List"
-        },
+        }, 
         {
-            "location": "/extras/#podcasts",
-            "text": "BBC - Thinking Allowed : New research on how society works.  Sociology  Matters of State : A podcast on International realtions and politics.\n     International Relations   Politics       Last Updated:  2018-04-22 \u00a0 \u21a9",
+            "location": "/extras/#podcasts", 
+            "text": "BBC - Thinking Allowed : New research on how society works.  Sociology  Matters of State : A podcast on International realtions and politics.\n     International Relations   Politics       Last Updated:  2018-04-22", 
             "title": "Podcasts"
-        },
+        }, 
         {
-            "location": "/lists/",
-            "text": "Lists\n\u00b6\n\n\nThe Mountain thread\n\u00b6\n\n\n\n\n\n\nKangra Valley Train\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLast Updated: \n2018-04-22\n\u00a0\n\u21a9",
+            "location": "/lists/", 
+            "text": "Lists\n\n\nThe Mountain thread\n\n\n\n\n\n\nKangra Valley Train\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLast Updated: \n2018-04-22", 
             "title": "Lists"
-        },
+        }, 
         {
-            "location": "/lists/#lists",
-            "text": "",
+            "location": "/lists/#lists", 
+            "text": "", 
             "title": "Lists"
-        },
+        }, 
         {
-            "location": "/lists/#the-mountain-thread",
-            "text": "Kangra Valley Train        Last Updated:  2018-04-22 \u00a0 \u21a9",
+            "location": "/lists/#the-mountain-thread", 
+            "text": "Kangra Valley Train        Last Updated:  2018-04-22", 
             "title": "The Mountain thread"
-        },
+        }, 
         {
-            "location": "/contact/",
-            "text": "Contact\n\u00b6\n\n\nYou can get in touch or find me at:\n\n\n\n\n@LinkedIn\n\n\n@GitHub\n\n\n@BitBucket\n\n\n@Twitter\n\n\nEmail: \naayuppal@gmail.com\n\n\n\n\n\n\n\n\n\n\n\n\nLast Updated: \n2018-04-22\n\u00a0\n\u21a9",
+            "location": "/contact/", 
+            "text": "Contact\n\n\nYou can get in touch or find me at:\n\n\n\n\n@LinkedIn\n\n\n@GitHub\n\n\n@BitBucket\n\n\n@Twitter\n\n\nEmail: \n\n\n\n\n\n\n\n\n\n\n\n\nLast Updated: \n2018-04-22", 
             "title": "Contact"
-        },
+        }, 
         {
-            "location": "/contact/#contact",
-            "text": "You can get in touch or find me at:   @LinkedIn  @GitHub  @BitBucket  @Twitter  Email:  aayuppal@gmail.com       Last Updated:  2018-04-22 \u00a0 \u21a9",
+            "location": "/contact/#contact", 
+            "text": "You can get in touch or find me at:   @LinkedIn  @GitHub  @BitBucket  @Twitter  Email:        Last Updated:  2018-04-22", 
             "title": "Contact"
-        },
+        }, 
         {
-            "location": "/devposts/devposts1/",
-            "text": "Dev Posts\n\u00b6\n\n\nBuilding with React & NextJS\n\u00b6\n\n\nMarch 2018\n\n\n\n\n//TODO\n\n\n\n\nThe wild west of email threads\n\u00b6\n\n\nFebruary 2018\n\n\n\n\n//TODO\n\n\n\n\n\n\nStreaming analytics on logs\n\u00b6\n\n\n2017\n\n\n\n\ndistributed systems\n \nlogging\n \nApache Spark\n \nSpark Streaming\n\n\n\n\nI had been wanting to experiment with the spark streaming framework for a while now, ever since I first got my hands\non with the spark framework itself to work on a lifecycle analysis application that processed over a TB of data\nand generated meaningful clustered outputs.\n\n\nSpark Streaming for the uninitiated is a powerful platform that enables realtime analysis.\n\n\nThe Problem at hand:\nI am sure many developers in this day and age have at some point or the other run into a situation losing\ncontext ever so often while debugging an error or an anomalous behaviour trying to keep track of one identifier for\nincoming request mapped to second and that mapped to the third just to see where in all the event went through and\nprocessed in its lifecycle. It particularly becomes even harder when your system is event driven and maintains state\nfor decision making.\n\n\nSo here's what I decided to do. Build a spark streaming application that reads logs from multiple services in\nrealtime from a message queue. Process it in memory up until the corresponding event/request context expires.\nAggregate all required information for that particular event into a user defined structured data type.\nDefine trigger conditions for alerts and dumps of error/warn and pass the object containing all the logically mapped\ninfo for the program/developer to analyse.\n\n\nThis is what the POC pipeline looked like.\n[insert basic pipeline sequence diagram]\n\n\n\n\n\n\n\n\n\n\n\n\nLast Updated: \n2018-04-22\n\u00a0\n\u21a9",
+            "location": "/devposts/devposts1/", 
+            "text": "Dev Posts\n\n\nBuilding with React \n NextJS\n\n\nMarch 2018\n\n\n\n\n//TODO\n\n\n\n\nThe wild west of email threads\n\n\nFebruary 2018\n\n\n\n\n//TODO\n\n\n\n\n\n\nStreaming analytics on logs\n\n\n2017\n\n\n\n\ndistributed systems\n \nlogging\n \nApache Spark\n \nSpark Streaming\n\n\n\n\nI had been wanting to experiment with the spark streaming framework for a while now, ever since I first got my hands\non with the spark framework itself to work on a lifecycle analysis application that processed over a TB of data\nand generated meaningful clustered outputs.\n\n\nSpark Streaming for the uninitiated is a powerful platform that enables realtime analysis.\n\n\nThe Problem at hand:\nI am sure many developers in this day and age have at some point or the other run into a situation losing\ncontext ever so often while debugging an error or an anomalous behaviour trying to keep track of one identifier for\nincoming request mapped to second and that mapped to the third just to see where in all the event went through and\nprocessed in its lifecycle. It particularly becomes even harder when your system is event driven and maintains state\nfor decision making.\n\n\nSo here's what I decided to do. Build a spark streaming application that reads logs from multiple services in\nrealtime from a message queue. Process it in memory up until the corresponding event/request context expires.\nAggregate all required information for that particular event into a user defined structured data type.\nDefine trigger conditions for alerts and dumps of error/warn and pass the object containing all the logically mapped\ninfo for the program/developer to analyse.\n\n\nThis is what the POC pipeline looked like.\n[insert basic pipeline sequence diagram]\n\n\n\n\n\n\n\n\n\n\n\n\nLast Updated: \n2018-04-22", 
             "title": "DP/Pg/I"
-        },
+        }, 
         {
-            "location": "/devposts/devposts1/#dev-posts",
-            "text": "",
+            "location": "/devposts/devposts1/#dev-posts", 
+            "text": "", 
             "title": "Dev Posts"
-        },
+        }, 
         {
-            "location": "/devposts/devposts1/#building-with-react-nextjs",
-            "text": "March 2018   //TODO",
+            "location": "/devposts/devposts1/#building-with-react-nextjs", 
+            "text": "March 2018   //TODO", 
             "title": "Building with React &amp; NextJS"
-        },
+        }, 
         {
-            "location": "/devposts/devposts1/#the-wild-west-of-email-threads",
-            "text": "February 2018   //TODO",
+            "location": "/devposts/devposts1/#the-wild-west-of-email-threads", 
+            "text": "February 2018   //TODO", 
             "title": "The wild west of email threads"
-        },
+        }, 
         {
-            "location": "/devposts/devposts1/#streaming-analytics-on-logs",
-            "text": "2017   distributed systems   logging   Apache Spark   Spark Streaming   I had been wanting to experiment with the spark streaming framework for a while now, ever since I first got my hands\non with the spark framework itself to work on a lifecycle analysis application that processed over a TB of data\nand generated meaningful clustered outputs.  Spark Streaming for the uninitiated is a powerful platform that enables realtime analysis.  The Problem at hand:\nI am sure many developers in this day and age have at some point or the other run into a situation losing\ncontext ever so often while debugging an error or an anomalous behaviour trying to keep track of one identifier for\nincoming request mapped to second and that mapped to the third just to see where in all the event went through and\nprocessed in its lifecycle. It particularly becomes even harder when your system is event driven and maintains state\nfor decision making.  So here's what I decided to do. Build a spark streaming application that reads logs from multiple services in\nrealtime from a message queue. Process it in memory up until the corresponding event/request context expires.\nAggregate all required information for that particular event into a user defined structured data type.\nDefine trigger conditions for alerts and dumps of error/warn and pass the object containing all the logically mapped\ninfo for the program/developer to analyse.  This is what the POC pipeline looked like.\n[insert basic pipeline sequence diagram]       Last Updated:  2018-04-22 \u00a0 \u21a9",
+            "location": "/devposts/devposts1/#streaming-analytics-on-logs", 
+            "text": "2017   distributed systems   logging   Apache Spark   Spark Streaming   I had been wanting to experiment with the spark streaming framework for a while now, ever since I first got my hands\non with the spark framework itself to work on a lifecycle analysis application that processed over a TB of data\nand generated meaningful clustered outputs.  Spark Streaming for the uninitiated is a powerful platform that enables realtime analysis.  The Problem at hand:\nI am sure many developers in this day and age have at some point or the other run into a situation losing\ncontext ever so often while debugging an error or an anomalous behaviour trying to keep track of one identifier for\nincoming request mapped to second and that mapped to the third just to see where in all the event went through and\nprocessed in its lifecycle. It particularly becomes even harder when your system is event driven and maintains state\nfor decision making.  So here's what I decided to do. Build a spark streaming application that reads logs from multiple services in\nrealtime from a message queue. Process it in memory up until the corresponding event/request context expires.\nAggregate all required information for that particular event into a user defined structured data type.\nDefine trigger conditions for alerts and dumps of error/warn and pass the object containing all the logically mapped\ninfo for the program/developer to analyse.  This is what the POC pipeline looked like.\n[insert basic pipeline sequence diagram]       Last Updated:  2018-04-22", 
             "title": "Streaming analytics on logs"
-        },
+        }, 
         {
-            "location": "/blog/kangra-valley-train/",
-            "text": "The Kangra Valley Train\n\u00b6\n\n\n\n\n\n\nAayush Uppal | 2018-04-22\n\n\nIf you think of it, a picture is a 3D space representation. It spans across time with the idea it captures across\nthe literal distance it maps on to the canvas and well nothing brings this idea to more prominence than this\npicture above.\n\n\nBut that isn't the only reason I find this so captivating. Those mountains right in the backdrop are something\nI am fond of, the nooks and crevices etched on that landscape are more familiar to me than the lines on the\nback of my hand.\n\n\nThe line thins for a picture like this for someone like me, is it the picture I am looking at or the memory that\nplays back. If I close my eyes It almost plays back as a motion poster through the dense greens from the far edge\non a clear evening after the rain.\n\n\n\n\n\n\n\n\n\n\n\n\nPhoto Credits: Premola Ghose, Ram Rahman. \nLink to Book\n\u00a0\n\u21a9",
+            "location": "/blog/kangra-valley-train/", 
+            "text": "The Kangra Valley Train\n\n\n\n\n\n\nAayush Uppal | 2018-04-22\n\n\nIf you think of it, a picture is a 3D space representation. It spans across time with the idea it captures across\nthe literal distance it maps on to the canvas and well nothing brings this idea to more prominence than this\npicture above.\n\n\nBut that isn't the only reason I find this so captivating. Those mountains right in the backdrop are something\nI am fond of, the nooks and crevices etched on that landscape are more familiar to me than the lines on the\nback of my hand.\n\n\nThe line thins for a picture like this for someone like me, is it the picture I am looking at or the memory that\nplays back. If I close my eyes It almost plays back as a motion poster through the dense greens from the far edge\non a clear evening after the rain.\n\n\n\n\n\n\n\n\n\n\n\n\nPhoto Credits: Premola Ghose, Ram Rahman. \nLink to Book", 
             "title": "Kangra Valley Train"
-        },
+        }, 
         {
-            "location": "/blog/kangra-valley-train/#the-kangra-valley-train",
-            "text": "Aayush Uppal | 2018-04-22  If you think of it, a picture is a 3D space representation. It spans across time with the idea it captures across\nthe literal distance it maps on to the canvas and well nothing brings this idea to more prominence than this\npicture above.  But that isn't the only reason I find this so captivating. Those mountains right in the backdrop are something\nI am fond of, the nooks and crevices etched on that landscape are more familiar to me than the lines on the\nback of my hand.  The line thins for a picture like this for someone like me, is it the picture I am looking at or the memory that\nplays back. If I close my eyes It almost plays back as a motion poster through the dense greens from the far edge\non a clear evening after the rain.       Photo Credits: Premola Ghose, Ram Rahman.  Link to Book \u00a0 \u21a9",
+            "location": "/blog/kangra-valley-train/#the-kangra-valley-train", 
+            "text": "Aayush Uppal | 2018-04-22  If you think of it, a picture is a 3D space representation. It spans across time with the idea it captures across\nthe literal distance it maps on to the canvas and well nothing brings this idea to more prominence than this\npicture above.  But that isn't the only reason I find this so captivating. Those mountains right in the backdrop are something\nI am fond of, the nooks and crevices etched on that landscape are more familiar to me than the lines on the\nback of my hand.  The line thins for a picture like this for someone like me, is it the picture I am looking at or the memory that\nplays back. If I close my eyes It almost plays back as a motion poster through the dense greens from the far edge\non a clear evening after the rain.       Photo Credits: Premola Ghose, Ram Rahman.  Link to Book", 
             "title": "The Kangra Valley Train"
-        },
+        }, 
         {
-            "location": "/blog/ordinary-emotion/",
-            "text": "Ordinary Emotion\n\u00b6\n\n\n\n\nAayush Uppal | 2018-04-23\n\n\nBut what is ordinary may never last, yet more often than not it does.\n\n\nOften chasing the grandest of ideas\n\n\nI don't know what it is.\n\n\nSo at this point I am not quite sure if there is an ordinary emotion anymore. But what I do know is my perspective\nhas evolved and I feel like I am going to hold dear to the moment.\n\n\n\n\nNot entirely sure what triggered this piece\nYet here we are, me and you its been forever since that actually happened",
+            "location": "/blog/ordinary-emotion/", 
+            "text": "Ordinary Emotion\n\n\n\n\nAayush Uppal | 2018-04-23\n\n\nBut what is ordinary may never last, yet more often than not it does.\n\n\nOften chasing the grandest of ideas\n\n\nI don't know what it is.\n\n\nSo at this point I am not quite sure if there is an ordinary emotion anymore. But what I do know is my perspective\nhas evolved and I feel like I am going to hold dear to the moment.\n\n\n\n\nNot entirely sure what triggered this piece\nYet here we are, me and you its been forever since that actually happened", 
             "title": "Ordinary Emotion"
-        },
+        }, 
         {
-            "location": "/blog/ordinary-emotion/#ordinary-emotion",
-            "text": "Aayush Uppal | 2018-04-23  But what is ordinary may never last, yet more often than not it does.  Often chasing the grandest of ideas  I don't know what it is.  So at this point I am not quite sure if there is an ordinary emotion anymore. But what I do know is my perspective\nhas evolved and I feel like I am going to hold dear to the moment.   Not entirely sure what triggered this piece\nYet here we are, me and you its been forever since that actually happened",
+            "location": "/blog/ordinary-emotion/#ordinary-emotion", 
+            "text": "Aayush Uppal | 2018-04-23  But what is ordinary may never last, yet more often than not it does.  Often chasing the grandest of ideas  I don't know what it is.  So at this point I am not quite sure if there is an ordinary emotion anymore. But what I do know is my perspective\nhas evolved and I feel like I am going to hold dear to the moment.   Not entirely sure what triggered this piece\nYet here we are, me and you its been forever since that actually happened", 
             "title": "Ordinary Emotion"
         }
     ]

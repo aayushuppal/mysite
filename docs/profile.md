@@ -22,6 +22,8 @@
         - Key Backend Systems and Service Development.
         - Spark Streaming Analysis for distributed logs.
         - Pushing product ideas from the ground up to execution.
+        - Taking complete ownership for continuous development.
+        - Mentoring projects.
     - Key Aspects: Design and Development, C++, Python, Distributed Systems, Data Science, Apache Spark
 
 ### Amazon - Software Development Engineer, Intern
@@ -129,4 +131,4 @@
         - [Dam Warning System using GSM](#)
         - [Performance Evaluation of WCDMA system](#)
 
-[^1]: Last Updated: `2018-04-22`
+[^1]: Last Updated: `2018-05-07`

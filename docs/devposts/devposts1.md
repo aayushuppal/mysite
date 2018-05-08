@@ -44,7 +44,4 @@
     Define trigger conditions for alerts and dumps of error/warn and pass the object containing all the logically mapped
     info for the program/developer to analyse.
 
-    This is what the POC pipeline looked like.
-    [insert basic pipeline sequence diagram]
-
 [^1]: Last Updated: `2018-04-22`

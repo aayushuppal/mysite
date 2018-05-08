@@ -14,9 +14,14 @@
 
     - Working as Software Engineer in Internal Systems and Web Applications group.
     - Highlights
-        - Apache Spark based lifecycle analysis
-        - Communication Systems Distributed backend systems, core feature and infrastructure
-        - Tools for continuous integration and development, a generic oozie based hadoop job manager
+        - Apache Spark based lifecycle analysis on a massive dataset.
+        - Communication Systems Distributed backend systems, core feature and infrastructure.
+        - Core communication systems infrastructure development for key aspects including modular state
+        management overhaul, Enterprise System integration for more scale and load.
+        - Tools for continuous integration and development, a generic oozie based hadoop job manager.
+        - Key Backend Systems and Service Development.
+        - Spark Streaming Analysis for distributed logs.
+        - Pushing product ideas from the ground up to execution.
     - Key Aspects: Design and Development, C++, Python, Distributed Systems, Data Science, Apache Spark
 
 ### Amazon - Software Development Engineer, Intern
@@ -44,7 +49,7 @@
 
 !!! info "Buffalo, NY : Oct 2014 - Dec 2015"
 
-    - Worked as Web Admin anfd developer for SubBoard Web Portal.
+    - Worked as Web Developer and Admin for SubBoard Web Portal.
     - Key aspects: complete ownership - architecture, design, and maintainence of systems. Skills: MySQL, Server
     Administration, Amazon Web Services, Wordpress
 

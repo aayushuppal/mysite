@@ -11,9 +11,8 @@
 <p class="pText">
 A thread dedicated to sharing pictures, putting in words the appreciation for my backyard, the mighty Himalayas:
 The last frontier, the king of all mountains.
+<a class="" href="../lists/#the-mountain-thread"><b><u>Link</u></b></a>
 </p>
-<a class="textLink" href="../lists/#the-mountain-thread"><b><u>&#128279; Link</u></b></a>
-<br/>
 <span class="minText tags">Himalayas</span>
 <span class="minText tags">Mountains</span>
 <span class="minText tags">Himachal Pradesh</span>

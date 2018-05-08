@@ -26,31 +26,29 @@ production quality applications and it is my attempt to leverage them together t
 
 ## Current Endeavors
 
-- `Building ETL pipelines with Apache Spark.`
-- `Real Time Analytics using Spark Streaming and Spark MLlib.`
-- `Understanding Hyperledger and Blockchain.`
-- `Dwelling into the fullstack Javascript world with MEAN stack.`
+- Building modern scalable web apps on the cloud with React/Python.
+- Machine learning for data science. `Data Science for Good`
 
 ## Featured
 
 !!! warning ""
 
     - Kangra Valley Train in the stunning backdrop of Dhauladhars. [link](blog/kangra-valley-train)
-    - A word on *opensource*
-        <blockquote class="twitter-tweet" data-lang="en">
-        <a href="https://twitter.com/bketelsen/status/986566694628986886"></a>
-        </blockquote>
 
 ## More About Me
 
 !!! info ""
 
-    - Home is where the Himalayas reside
-        * I grew up in a picturesque town on the edge of Himalayas. [Dharamshala](#)
-        * Check out my thread dedicated to the amazing place. [Link](lists/#the-mountain-thread)
+    - I grew up in a picturesque town on the edge of Himalayas. [Dharamshala](#)
+    - Check out my thread dedicated to the amazing place. [Link](lists/#the-mountain-thread)
+    - Amongst other key interests: ==Football==, ==Blues Guitar==
 
-    - Amongst other things: A passion for Football and the Blues Guitar, usually gets me through some of my days.
+***
 
-[^1]: Last Updated: `2018-04-22`
+:pushpin: Pinned
 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"/>
+<blockquote class="twitter-tweet" data-lang="en">
+<a href="https://twitter.com/bketelsen/status/986566694628986886"></a>
+</blockquote>
+
+[^1]: Last Updated: `2018-05-07`

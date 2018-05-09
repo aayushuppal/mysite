@@ -72,7 +72,7 @@ theme:
 google_analytics:
   - 'UA-118033019-1'
   - 'auto'
-  
+
 pages:
   - Home: index.md
   - Profile: profile.md
@@ -81,8 +81,14 @@ pages:
   - Contact: contact.md
 
   - Dev Posts:
-    - DP/Pg/I: devposts/devposts1.md 
+    - DP/Pg/I: devposts/devposts1.md
 
   - Blog:
     - Kangra Valley Train: blog/kangra-valley-train.md
+    - Representations: blog/representations.md
+    - This Developer Life: blog/this_dev_life.md
+    - Not All Shadows: blog/not_all_shadows.md
+    - Calm of the Qualm: blog/calm_qualm.md
+    - Road Back Home: blog/road_back_home.md
+    - Colors of Foliage: blog/colors_of_foliage.md
     # - Ordinary Emotion: blog/ordinary-emotion.md

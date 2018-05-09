@@ -15,5 +15,5 @@
     plays back. If I close my eyes It almost plays back as a motion poster through the dense greens from the far edge
     on a clear evening after the rain.
 
-[^1]: `himachal pradesh`, `himalayas`, `train`, `nostalgia`
+[^1]: `himachal pradesh`, `himalayas`, `train`, `nostalgia`, `mountains`
 [^2]: _Photo Credits: Premola Ghose, Ram Rahman. [Link to Book](https://www.amazon.in/dp/9385285416)_

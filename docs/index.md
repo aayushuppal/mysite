@@ -51,4 +51,10 @@ production quality applications and it is my attempt to leverage them together t
 <a href="https://twitter.com/bketelsen/status/986566694628986886"></a>
 </blockquote>
 
-[^1]: Last Updated: `2018-05-07`
+## Trivia
+
+- Nokia - NDTV App Idea Contest 2013, Amongst Top 20 nationwide finalists.
+  Application for social good: Realtime blood donor locator
+  [Link to YouTube Video](https://youtu.be/ysY-dy3wXXw?t=1m38s)
+
+[^1]: Last Updated: `2018-05-11`

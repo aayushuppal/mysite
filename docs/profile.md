@@ -2,6 +2,8 @@
 
 # Profile
 
+- [Resume](https://drive.google.com/open?id=1CvwnkYsxBSd7MaE5XSyqEzIJKk9EWOOI)
+
 ## **> Work**
 
 ### Bloomberg - Software Engineer

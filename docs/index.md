@@ -2,6 +2,8 @@
 
 # Home
 
+:information_source: Engineer | Pahari | Himalayas :arrows_clockwise: NYC
+
 <div class="box1">
 Hi, I'm Aayush Uppal.<br>
 A Software Engineer, currently working for <a href="https://www.bloomberg.com/company">Bloomberg</a> in New York City

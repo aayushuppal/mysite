@@ -18,5 +18,6 @@
     - [Calm of the Qualm](/blog/calm_qualm)
     - [Road Back Home](/blog/road_back_home)
     - [Colors of Foliage](/blog/colors_of_foliage)
+    - [The Dying Art of Disagreement](/blog/art_disagreement)
 
-[^1]: Last Updated: `2018-05-09`
+[^1]: Last Updated: `2018-05-24`

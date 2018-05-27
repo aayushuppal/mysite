@@ -61,4 +61,11 @@ production quality applications and it is my attempt to leverage them together t
   Application for social good: Realtime blood donor locator
   [Link to YouTube Video](https://youtu.be/ysY-dy3wXXw?t=1m38s)
 
+<br/>
+<i class="fab fa-python fa-lg"></i>
+<i class="fab fa-github-alt fa-lg"></i>
+<i class="fab fa-java fa-lg"></i>
+<i class="fab fa-node-js fa-lg"></i>
+<i class="fas fa-code fa-lg"></i>
+
 [^1]: Last Updated: `2018-05-11`

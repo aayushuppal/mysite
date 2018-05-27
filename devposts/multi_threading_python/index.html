@@ -509,11 +509,12 @@ perfromance with python3.</p>
 <p><code>TODO</code>: Parallelize <code>GET</code> requests to fetch data over the network.</p>
 <hr />
 <ul>
-<li>
-<p>Creating a Thread Worker class that extends <code>Thread</code> and has a <code>task_queue</code></p>
-<ul>
+<li>Creating a Thread Worker class that extends <code>Thread</code> and has a <code>task_queue</code><ul>
 <li>Set an <code>action_type</code> to reuse the worker for different type of actions
-that the worker queue can be reused for.
+that the worker queue can be reused for.</li>
+</ul>
+</li>
+</ul>
 <div class="codehilite"><pre><span></span>from threading import Thread
 from util.data_util import getData
 
@@ -530,14 +531,15 @@ class ThreadWorker(Thread):
                 getData(args=args)
 
             self.task_queue.task_done()
-</pre></div></li>
+</pre></div>
+
+<ul>
+<li>Writing the Data Util for <code>GET</code> requests to fetch data<ul>
+<li>Using <code>**kwargs</code> for generic named param args as a dict.</li>
+<li>Using an <code>output</code> container to return content.</li>
 </ul>
 </li>
-<li>
-<p>Writing the Data Util for <code>GET</code> requests to fetch data</p>
-<ul>
-<li>Using <code>**kwargs</code> for generic named param args as a dict.</li>
-<li>Using an <code>output</code> container to return content.
+</ul>
 <div class="codehilite"><pre><span></span>import urllib.request
 from urllib.error import HTTPError
 
@@ -550,11 +552,11 @@ def getData(**kwargs):
         content = None
 
     args[&#39;output&#39;][&#39;content&#39;] = content
-</pre></div></li>
+</pre></div>
+
+<ul>
+<li>Creating and starting a multi threaded task queue</li>
 </ul>
-</li>
-<li>
-<p>Creating and starting a multi threaded task queue
 <div class="codehilite"><pre><span></span>from queue import Queue
 
 task_queue = Queue()
@@ -562,24 +564,37 @@ for i in range(CPU_COUNT):
     worker = ThreadWorker(task_queue)
     worker.daemon = True
     worker.start()
-</pre></div></p>
-</li>
-<li>
-<p>Putting tasks in task queue
-<div class="codehilite"><pre><span></span>output1 = {}
-task_queue.put((&#39;getData&#39;, { &#39;get_url&#39; : &#39;http://google.com&#39;,
-                             &#39;output&#39; : output1}))
-output2 = {}
-task_queue.put((&#39;getData&#39;, { &#39;get_url&#39; : &#39;http://example.com&#39;,
-                             &#39;output&#39; : output2}))
-</pre></div></p>
-</li>
-<li>
-<p>Waiting for tasks to finish
-<div class="codehilite"><pre><span></span>task_queue.join()
-</pre></div></p>
-</li>
+</pre></div>
+
+<ul>
+<li>Putting tasks in task queue</li>
 </ul>
+<div class="codehilite"><pre><span></span>output1 = {}
+task_queue.put((&#39;getData&#39;,{&#39;get_url&#39; : &#39;http://google.com&#39;,&#39;output&#39; : output1}))
+output2 = {}
+task_queue.put((&#39;getData&#39;,{&#39;get_url&#39; : &#39;http://example.com&#39;,&#39;output&#39; : output2}))
+</pre></div>
+
+<ul>
+<li>Waiting for tasks to finish</li>
+</ul>
+<div class="codehilite"><pre><span></span>task_queue.join()
+</pre></div>
+
+<ul>
+<li>Output</li>
+</ul>
+<div class="codehilite"><pre><span></span>getData for=&quot;http://example.com&quot; takes time=0.04711198806762695s
+getData for=&quot;http://example.com&quot; takes time=0.04711198806762695s
+getData for=&quot;http://example.com&quot; takes time=0.04514908790588379s
+getData for=&quot;http://google.com&quot; takes time=0.1752634048461914s
+getData for=&quot;http://google.com&quot; takes time=0.17326903343200684s
+getData for=&quot;http://google.com&quot; takes time=0.1590442657470703s
+
+main takes time=0.2101454734802246s
+serial exec time would be time=0.6469497680664062s
+</pre></div>
+
 <p><b>Source code: </b><a href="https://github.com/aayushuppal/PyUtils/tree/master/MultiThread">
 <i class="fab fa-github"> PyUtils/MultiThread</i></a></p>
                 

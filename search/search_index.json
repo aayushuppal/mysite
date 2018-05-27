@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Home\n\n\n Engineer | Pahari | Himalayas \n NYC\n\n\n\nHi, I'm Aayush Uppal.\n\nA Software Engineer, currently working for \nBloomberg\n in New York City\nand a \nUniversity at Buffalo\n\n/ \nNIT Hamirpur\n alumni.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAs a Software Engineer I am passionate about high performance distributed systems and building applications that provide\ncritical insight. Machine Learning / Data Science \n Ditributed Systems go hand in hand for building valuable, robust,\nproduction quality applications and it is my attempt to leverage them together to achieve the same.\n\n\n\n\nProfile\n\n\nResume\n\n\n\n\n\n\nCurrent Endeavors\n\n\n\n\nBuilding modern scalable web apps on the cloud with React/Python.\n\n\nMachine learning for data science. \nData Science for Good\n\n\n\n\nFeatured\n\n\n\n\n\n\nKangra Valley Train in the stunning backdrop of Dhauladhars. \nlink\n\n\n\n\n\n\nMore About Me\n\n\n\n\n\n\nI grew up in a picturesque town on the edge of Himalayas. \nDharamshala\n\n\nCheck out my thread dedicated to the amazing place. \nLink\n\n\nAmongst other key interests: \nFootball\n, \nBlues Guitar\n\n\n\n\n\n\n\n\n Pinned\n\n\n\n\n\n\n\n\n\nTrivia\n\n\n\n\nNokia - NDTV App Idea Contest 2013, Amongst Top 20 nationwide finalists.\n  Application for social good: Realtime blood donor locator\n  \nLink to YouTube Video\n\n\n\n\n\n\n\n\n\n\n\n\nLast Updated: \n2018-05-11", 
+            "text": "Home\n\n\n Engineer | Pahari | Himalayas \n NYC\n\n\n\nHi, I'm Aayush Uppal.\n\nA Software Engineer, currently working for \nBloomberg\n in New York City\nand a \nUniversity at Buffalo\n\n/ \nNIT Hamirpur\n alumni.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAs a Software Engineer I am passionate about high performance distributed systems and building applications that provide\ncritical insight. Machine Learning / Data Science \n Ditributed Systems go hand in hand for building valuable, robust,\nproduction quality applications and it is my attempt to leverage them together to achieve the same.\n\n\n\n\nProfile\n\n\nResume\n\n\n\n\n\n\nCurrent Endeavors\n\n\n\n\nBuilding modern scalable web apps on the cloud with React/Python.\n\n\nMachine learning for data science. \nData Science for Good\n\n\n\n\nFeatured\n\n\n\n\n\n\nMulti-Threading in Python\n\n\nThe Dying Art of Disagreement\n\n\nKangra Valley Train in the stunning backdrop of Dhauladhars. \nlink\n\n\n\n\n\n\nMore About Me\n\n\n\n\n\n\nI grew up in a picturesque town on the edge of Himalayas. \nDharamshala\n\n\nCheck out my thread dedicated to the amazing place. \nLink\n\n\nAmongst other key interests: \nFootball\n, \nBlues Guitar\n\n\n\n\n\n\n\n\n Pinned\n\n\n\n\n\n\n\n\n\nTrivia\n\n\n\n\nNokia - NDTV App Idea Contest 2013, Amongst Top 20 nationwide finalists.\n  Application for social good: Realtime blood donor locator\n  \nLink to YouTube Video\n\n\n\n\n\n\n\n\n\n\n\n\nLast Updated: \n2018-05-11", 
             "title": "Home"
         }, 
         {
@@ -17,7 +17,7 @@
         }, 
         {
             "location": "/#featured", 
-            "text": "Kangra Valley Train in the stunning backdrop of Dhauladhars.  link", 
+            "text": "Multi-Threading in Python  The Dying Art of Disagreement  Kangra Valley Train in the stunning backdrop of Dhauladhars.  link", 
             "title": "Featured"
         }, 
         {
@@ -112,7 +112,7 @@
         }, 
         {
             "location": "/lists/", 
-            "text": "Lists\n\n\nThe Mountain thread\n\n\n\n\n\n\nKangra Valley Train\n\n\nRoad Back Home\n\n\n\n\n\n\nBlog Posts\n\n\n\n\n\n\nKangra Valley Train\n\n\nRepresentations\n\n\nThis Developer Life\n\n\nNot All Shadows\n\n\nCalm of the Qualm\n\n\nRoad Back Home\n\n\nColors of Foliage\n\n\nThe Dying Art of Disagreement\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLast Updated: \n2018-05-24", 
+            "text": "Lists\n\n\nThe Mountain thread\n\n\n\n\n\n\nKangra Valley Train\n\n\nRoad Back Home\n\n\n\n\n\n\nBlog Posts\n\n\n\n\n\n\nThe Dying Art of Disagreement\n\n\nKangra Valley Train\n\n\nRepresentations\n\n\nThis Developer Life\n\n\nNot All Shadows\n\n\nCalm of the Qualm\n\n\nRoad Back Home\n\n\nColors of Foliage\n\n\n\n\n\n\nDev Posts\n\n\n\n\n\n\nMulti-Threading in Python\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLast Updated: \n2018-05-27", 
             "title": "Lists"
         }, 
         {
@@ -127,8 +127,13 @@
         }, 
         {
             "location": "/lists/#blog-posts", 
-            "text": "Kangra Valley Train  Representations  This Developer Life  Not All Shadows  Calm of the Qualm  Road Back Home  Colors of Foliage  The Dying Art of Disagreement        Last Updated:  2018-05-24", 
+            "text": "The Dying Art of Disagreement  Kangra Valley Train  Representations  This Developer Life  Not All Shadows  Calm of the Qualm  Road Back Home  Colors of Foliage", 
             "title": "Blog Posts"
+        }, 
+        {
+            "location": "/lists/#dev-posts", 
+            "text": "Multi-Threading in Python        Last Updated:  2018-05-27", 
+            "title": "Dev Posts"
         }, 
         {
             "location": "/contact/", 
@@ -139,6 +144,16 @@
             "location": "/contact/#contact", 
             "text": "You can get in touch or find me at:   @LinkedIn  @GitHub  @BitBucket  @Twitter  Email:        Last Updated:  2018-04-22", 
             "title": "Contact"
+        }, 
+        {
+            "location": "/devposts/multi_threading_python/", 
+            "text": "Multi-Threading in Python\n\n\nMay 2018\n\n\nA reference implementation of multi threading network requests for better\nperfromance with python3.\n\n\nTODO\n: Parallelize \nGET\n requests to fetch data over the network.\n\n\n\n\n\n\n\n\nCreating a Thread Worker class that extends \nThread\n and has a \ntask_queue\n\n\n\n\nSet an \naction_type\n to reuse the worker for different type of actions\nthat the worker queue can be reused for.\n\nfrom threading import Thread\nfrom util.data_util import getData\n\nclass ThreadWorker(Thread):\n\n    def __init__(self, queue):\n        Thread.__init__(self)\n        self.task_queue = queue\n\n    def run(self):\n        while True:\n            action_type, args = self.task_queue.get()\n            if action_type == \ngetData\n:\n                getData(args=args)\n\n            self.task_queue.task_done()\n\n\n\n\n\n\n\n\n\nWriting the Data Util for \nGET\n requests to fetch data\n\n\n\n\nUsing \n**kwargs\n for generic named param args as a dict.\n\n\nUsing an \noutput\n container to return content.\n\nimport urllib.request\nfrom urllib.error import HTTPError\n\ndef getData(**kwargs):\n    args = kwargs[\nargs\n]\n\n    try:\n        content = urllib.request.urlopen(args[\nget_url\n]).read()\n    except HTTPError:\n        content = None\n\n    args[\noutput\n][\ncontent\n] = content\n\n\n\n\n\n\n\n\n\nCreating and starting a multi threaded task queue\n\nfrom queue import Queue\n\ntask_queue = Queue()\nfor i in range(CPU_COUNT):\n    worker = ThreadWorker(task_queue)\n    worker.daemon = True\n    worker.start()\n\n\n\n\n\n\n\nPutting tasks in task queue\n\noutput1 = {}\ntask_queue.put((\ngetData\n, { \nget_url\n : \nhttp://google.com\n,\n                             \noutput\n : output1}))\noutput2 = {}\ntask_queue.put((\ngetData\n, { \nget_url\n : \nhttp://example.com\n,\n                             \noutput\n : output2}))\n\n\n\n\n\n\n\nWaiting for tasks to finish\n\ntask_queue.join()\n\n\n\n\n\n\n\nSource code: \n\n\n PyUtils/MultiThread", 
+            "title": "Multi Threading Python"
+        }, 
+        {
+            "location": "/devposts/multi_threading_python/#multi-threading-in-python", 
+            "text": "May 2018  A reference implementation of multi threading network requests for better\nperfromance with python3.  TODO : Parallelize  GET  requests to fetch data over the network.     Creating a Thread Worker class that extends  Thread  and has a  task_queue   Set an  action_type  to reuse the worker for different type of actions\nthat the worker queue can be reused for. from threading import Thread\nfrom util.data_util import getData\n\nclass ThreadWorker(Thread):\n\n    def __init__(self, queue):\n        Thread.__init__(self)\n        self.task_queue = queue\n\n    def run(self):\n        while True:\n            action_type, args = self.task_queue.get()\n            if action_type ==  getData :\n                getData(args=args)\n\n            self.task_queue.task_done()     Writing the Data Util for  GET  requests to fetch data   Using  **kwargs  for generic named param args as a dict.  Using an  output  container to return content. import urllib.request\nfrom urllib.error import HTTPError\n\ndef getData(**kwargs):\n    args = kwargs[ args ]\n\n    try:\n        content = urllib.request.urlopen(args[ get_url ]).read()\n    except HTTPError:\n        content = None\n\n    args[ output ][ content ] = content     Creating and starting a multi threaded task queue from queue import Queue\n\ntask_queue = Queue()\nfor i in range(CPU_COUNT):\n    worker = ThreadWorker(task_queue)\n    worker.daemon = True\n    worker.start()    Putting tasks in task queue output1 = {}\ntask_queue.put(( getData , {  get_url  :  http://google.com ,\n                              output  : output1}))\noutput2 = {}\ntask_queue.put(( getData , {  get_url  :  http://example.com ,\n                              output  : output2}))    Waiting for tasks to finish task_queue.join()    Source code:    PyUtils/MultiThread", 
+            "title": "Multi-Threading in Python"
         }, 
         {
             "location": "/devposts/devposts1/", 
@@ -164,6 +179,16 @@
             "location": "/devposts/devposts1/#streaming-analytics-on-logs", 
             "text": "2017   distributed systems   logging   Apache Spark   Spark Streaming   I had been wanting to experiment with the spark streaming framework for a while now, ever since I first got my hands\non with the spark framework itself to work on a lifecycle analysis application that processed over a TB of data\nand generated meaningful clustered outputs.  Spark Streaming for the uninitiated is a powerful platform that enables realtime analysis.  The Problem at hand:\nI am sure many developers in this day and age have at some point or the other run into a situation losing\ncontext ever so often while debugging an error or an anomalous behaviour trying to keep track of one identifier for\nincoming request mapped to second and that mapped to the third just to see where in all the event went through and\nprocessed in its lifecycle. It particularly becomes even harder when your system is event driven and maintains state\nfor decision making.  So here's what I decided to do. Build a spark streaming application that reads logs from multiple services in\nrealtime from a message queue. Process it in memory up until the corresponding event/request context expires.\nAggregate all required information for that particular event into a user defined structured data type.\nDefine trigger conditions for alerts and dumps of error/warn and pass the object containing all the logically mapped\ninfo for the program/developer to analyse.       Last Updated:  2018-04-22", 
             "title": "Streaming analytics on logs"
+        }, 
+        {
+            "location": "/blog/art_disagreement/", 
+            "text": "The Dying Art of Disagreement\n\n\n\n\nLinks\n\n\n\n\nNew York Times - Article: \nhttps://www.nytimes.com/2017/09/24/opinion/dying-art-of-disagreement.html\n\n\nLowy Institute - Bret Stephens lecture: \nhttps://youtu.be/7ZQq-QA8118?t=15m43s\n\n\n\n\n\n\n\n\nWhat Stands Out\n\n\n\n\nTo disagree well you must first understand well\n\n\nYou have to read deeply, listen carefully and watch closely.\n\n\n\n\n\n\n\n\n\n\n\n\nEmpathy and Respect for Adversary\n\n\nYou need to grant your adversary moral respect and intellectual\nbenefit of doubt.\n\n\nSympathy for their motives and participate empathically with the\nline of reasoning.\n\n\n\n\n\n\n\n\n\n\n\n\nAllow for the possibility of persusasion.\n\n\n\n\n\n\n\n\nOn masking opinions from challenge\n\n\nI recognise as this therefore I think can be a dangerous precedent.\n\n\n\n\n\n\n\n\n\n\n\n\nOn the purpose of opinion\n\n\nThe purpose of opinion isn\u2019t to depart from facts but to use them as a\nbridge to a larger idea called \ntruth\n.", 
+            "title": "The Dying Art of Disagreement"
+        }, 
+        {
+            "location": "/blog/art_disagreement/#the-dying-art-of-disagreement", 
+            "text": "Links   New York Times - Article:  https://www.nytimes.com/2017/09/24/opinion/dying-art-of-disagreement.html  Lowy Institute - Bret Stephens lecture:  https://youtu.be/7ZQq-QA8118?t=15m43s     What Stands Out   To disagree well you must first understand well  You have to read deeply, listen carefully and watch closely.       Empathy and Respect for Adversary  You need to grant your adversary moral respect and intellectual\nbenefit of doubt.  Sympathy for their motives and participate empathically with the\nline of reasoning.       Allow for the possibility of persusasion.     On masking opinions from challenge  I recognise as this therefore I think can be a dangerous precedent.       On the purpose of opinion  The purpose of opinion isn\u2019t to depart from facts but to use them as a\nbridge to a larger idea called  truth .", 
+            "title": "The Dying Art of Disagreement"
         }, 
         {
             "location": "/blog/kangra-valley-train/", 
@@ -239,16 +264,6 @@
             "location": "/blog/colors_of_foliage/#colors-of-foliage", 
             "text": "Aayush Uppal | 2014  Colors of Foliage       abstract ,  thoughts ,  nature ,  foliage ,  seasons", 
             "title": "Colors Of Foliage"
-        }, 
-        {
-            "location": "/blog/art_disagreement/", 
-            "text": "The Dying Art of Disagreement\n\n\n\n\nLinks\n\n\n\n\nNew York Times - Article: \nhttps://www.nytimes.com/2017/09/24/opinion/dying-art-of-disagreement.html\n\n\nLowy Institute - Bret Stephens lecture: \nhttps://youtu.be/7ZQq-QA8118?t=15m43s\n\n\n\n\n\n\n\n\nWhat Stands Out\n\n\n\n\nTo disagree well you must first understand well\n\n\nYou have to read deeply, listen carefully and watch closely.\n\n\n\n\n\n\n\n\n\n\n\n\nEmpathy and Respect for Adversary\n\n\nYou need to grant your adversary moral respect and intellectual\nbenefit of doubt.\n\n\nSympathy for their motives and participate empathically with the\nline of reasoning.\n\n\n\n\n\n\n\n\n\n\n\n\nAllow for the possibility of persusasion.\n\n\n\n\n\n\n\n\nOn masking opinions from challenge\n\n\nI recognise as this therefore I think can be a dangerous precedent.\n\n\n\n\n\n\n\n\n\n\n\n\nOn the purpose of opinion\n\n\nThe purpose of opinion isn\u2019t to depart from facts but to use them as a\nbridge to a larger idea called \ntruth\n.", 
-            "title": "The Dying Art of Disagreement"
-        }, 
-        {
-            "location": "/blog/art_disagreement/#the-dying-art-of-disagreement", 
-            "text": "Links   New York Times - Article:  https://www.nytimes.com/2017/09/24/opinion/dying-art-of-disagreement.html  Lowy Institute - Bret Stephens lecture:  https://youtu.be/7ZQq-QA8118?t=15m43s     What Stands Out   To disagree well you must first understand well  You have to read deeply, listen carefully and watch closely.       Empathy and Respect for Adversary  You need to grant your adversary moral respect and intellectual\nbenefit of doubt.  Sympathy for their motives and participate empathically with the\nline of reasoning.       Allow for the possibility of persusasion.     On masking opinions from challenge  I recognise as this therefore I think can be a dangerous precedent.       On the purpose of opinion  The purpose of opinion isn\u2019t to depart from facts but to use them as a\nbridge to a larger idea called  truth .", 
-            "title": "The Dying Art of Disagreement"
         }
     ]
 }

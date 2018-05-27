@@ -35,6 +35,8 @@ production quality applications and it is my attempt to leverage them together t
 
 !!! warning ""
 
+    - [Multi-Threading in Python](/devposts/multi_threading_python)
+    - [The Dying Art of Disagreement](/blog/art_disagreement)
     - Kangra Valley Train in the stunning backdrop of Dhauladhars. [link](blog/kangra-valley-train)
 
 ## More About Me

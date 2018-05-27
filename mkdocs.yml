@@ -13,6 +13,7 @@ site_url: https://aayushuppal.github.io/site
 extra_css:
   - 'stylesheets/flexboxgrid.min.css'
   - 'stylesheets/extra.css'
+  - 'https://use.fontawesome.com/releases/v5.0.13/css/all.css'
 
 extra_javascript:
   - "https://cdnjs.cloudflare.com/ajax/libs/raphael/2.2.7/raphael.min.js"
@@ -81,9 +82,11 @@ pages:
   - Contact: contact.md
 
   - Dev Posts:
+    - Multi Threading Python: devposts/multi_threading_python.md
     - DP/Pg/I: devposts/devposts1.md
 
   - Blog:
+    - The Dying Art of Disagreement: blog/art_disagreement.md
     - Kangra Valley Train: blog/kangra-valley-train.md
     - Representations: blog/representations.md
     - This Developer Life: blog/this_dev_life.md
@@ -91,5 +94,4 @@ pages:
     - Calm of the Qualm: blog/calm_qualm.md
     - Road Back Home: blog/road_back_home.md
     - Colors of Foliage: blog/colors_of_foliage.md
-    - The Dying Art of Disagreement: blog/art_disagreement.md
     # - Ordinary Emotion: blog/ordinary-emotion.md

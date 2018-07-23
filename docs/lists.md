@@ -11,6 +11,7 @@
 
 !!! tip ""
 
+    - [Mantra - I](/blog/mantra-i)
     - [The Dying Art of Disagreement](/blog/art_disagreement)
     - [Kangra Valley Train](/blog/kangra-valley-train)
     - [Representations](/blog/representations)

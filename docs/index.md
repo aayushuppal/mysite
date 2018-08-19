@@ -2,7 +2,7 @@
 
 # Home
 
-:information_source: Engineer | Pahari | Himalayas :arrows_clockwise: NYC
+:information_source: Engineer | Creature of the High Mountains | Himalayas :arrows_clockwise: NYC
 
 <div class="box1">
 Hi, I'm Aayush Uppal.<br>

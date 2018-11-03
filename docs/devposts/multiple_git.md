@@ -51,13 +51,18 @@ git config --global --unset-all user.email
 ## set the repo
 
 - clone a repo
+
 - set repo level .git/.gitconfig, eg:
+
 ```
 git config user.name "user1"
 git config user.email "user1l@email.com"
 ```
+
 - to explicitly use a user specific setting update the remote to
+
 ```
 git clone git@github.com-user1:user1/repo.git
 ```
----
+
+[^1]: Last Updated: `2018-11-02`

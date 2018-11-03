@@ -18,8 +18,8 @@
     - [This Developer Life](/blog/this_dev_life)
     - [Not All Shadows](/blog/not_all_shadows)
     - [Calm of the Qualm](/blog/calm_qualm)
-    - [Road Back Home](/blog/road_back_home)
-    - [Colors of Foliage](/blog/colors_of_foliage)
+    - [Road Back Home](blog/road_back_home)
+    - [Colors of Foliage](blog/colors_of_foliage.md)
 
 ## Dev Posts
 

@@ -1,6 +1,6 @@
 # Open Source Cred
 
-## BHPQ
+## <i class="fab fa-python fa-lg"></i> BHPQ
 
 A binary heap priority queue library for python
 

@@ -80,6 +80,7 @@ pages:
   - Extras: extras.md
   - Lists: lists.md
   - Contact: contact.md
+  - OSS Cred: oss-cred.md
 
   - Dev Posts:
     - Multi Threading Python: devposts/multi_threading_python.md

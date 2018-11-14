@@ -23,6 +23,7 @@ production quality applications and it is my attempt to leverage them together t
 
 - [Profile](profile)
 - [Resume](files/Resume Aayush.pdf)
+- [Open Source Cred](oss-cred)
 
 ***
 
@@ -70,4 +71,4 @@ production quality applications and it is my attempt to leverage them together t
 <i class="fab fa-node-js fa-lg"></i>
 <i class="fas fa-code fa-lg"></i>
 
-[^1]: Last Updated: `2018-05-11`
+[^1]: Last Updated: `2018-11-13`

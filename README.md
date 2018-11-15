@@ -1,3 +1,6 @@
+[![HitCount](http://hits.dwyl.io/aayushuppal/site.svg)](http://hits.dwyl.io/aayushuppal/site)
+[![GitHub contributors](https://img.shields.io/github/contributors/aayushuppal/site.svg)](https://github.com/aayushuppal/site/graphs/contributors)
+
 # aayushuppal/site
 
 ## Website

@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/aayushuppal/site.svg)](http://hits.dwyl.io/aayushuppal/site)
+
 # aayushuppal/site
 
 ## Website

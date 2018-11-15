@@ -5,7 +5,7 @@
 
 ## Website
 
-- Personal Website: [aayushuppal.github.io](https://aayushuppal.github.io)
+- [aayushuppal.github.io](https://aayushuppal.github.io)
 
 
 ## Dev Notes

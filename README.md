@@ -1,11 +1,11 @@
-[![HitCount](http://hits.dwyl.io/aayushuppal/site.svg)](http://hits.dwyl.io/aayushuppal/site)
+[![HitCount](http://hits.dwyl.io/aayushuppal/site.svg)](https://github.com/aayushuppal/site)
 [![GitHub contributors](https://img.shields.io/github/contributors/aayushuppal/site.svg)](https://github.com/aayushuppal/site/graphs/contributors)
 
 # aayushuppal/site
 
 ## Website
 
-- [Personal Website](https://aayushuppal.github.io/site)
+- [aayushuppal.github.io](https://aayushuppal.github.io)
 
 
 ## Dev Notes

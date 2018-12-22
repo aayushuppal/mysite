@@ -94,7 +94,7 @@ function submitEmail() {
     var emailField =  document.getElementById("emailInputField").value.trim()
     var msgField =  $("#msgInputField")[0].value.trim()
 
-    var url = "https://rp-dbasvc.appspot.com/add-gen-msg"
+    var url = "https://rp-dbasvc.herokuapp.com/add-gen-msg"
 
     document.getElementById("Contact_Form").style.display = "none"
     document.getElementById("Contact_Failed").style.display = "none"

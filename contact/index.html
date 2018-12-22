@@ -690,7 +690,7 @@ function submitEmail() {
     var emailField =  document.getElementById("emailInputField").value.trim()
     var msgField =  $("#msgInputField")[0].value.trim()
 
-    var url = "https://rp-dbasvc.appspot.com/add-gen-msg"
+    var url = "https://rp-dbasvc.herokuapp.com/add-gen-msg"
 
     document.getElementById("Contact_Form").style.display = "none"
     document.getElementById("Contact_Failed").style.display = "none"
@@ -805,6 +805,11 @@ function handleErrors(error) {
             © Aayush Uppal
           </div>
         
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
       </div>
       
         

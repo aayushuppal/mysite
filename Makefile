@@ -1,11 +1,11 @@
 serve:
-	mkdocs serve
+	./venv/bin/mkdocs serve
 
 publish:
-	mkdocs gh-deploy
+	./venv/bin/mkdocs gh-deploy
 
 stop:
 	pkill mkdocs
 
 depends:
-	pip install -r requirements.txt
+	./venv/bin/pip install -r requirements.txt

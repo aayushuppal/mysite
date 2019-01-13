@@ -13,7 +13,9 @@ and a <a href="http://www.buffalo.edu">University at Buffalo</a>
 <br/>
 <br/>
 
-- :office:
+- <i class="fas fa-building"></i> New York, USA
+<br/>
+- <i class="fas fa-mountain"></i> Himachal Pradesh, India
 
 </div>
 

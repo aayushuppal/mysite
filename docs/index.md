@@ -44,6 +44,7 @@ production quality applications and it is my attempt to leverage them together t
 
 !!! warning ""
 
+    - [A Software Engineer's Guide to Journaling](devposts/sde-journaling-guide)
     - [Multiple Git Accounts - SSH Keys](devposts/multiple_git)
     - [Mantra - I](blog/mantra-i)
     - [Multi-Threading in Python](devposts/multi_threading_python)
@@ -79,4 +80,4 @@ production quality applications and it is my attempt to leverage them together t
 <i class="fab fa-node-js fa-lg"></i>
 <i class="fas fa-code fa-lg"></i>
 
-[^1]: Last Updated: `2018-11-13`
+[^1]: Last Updated: `2019-04-14`

@@ -90,6 +90,7 @@ pages:
     - Multiple Git Accounts: devposts/multiple_git.md
     - DP/Pg/I: devposts/devposts1.md
     - Root & Custom Rom Android: devposts/root-rom-samsung.md
+    - SDE Guide to Journaling: devposts/sde-journaling-guide.md
 
   - Blog:
     - Mantra - I: blog/mantra-i.md

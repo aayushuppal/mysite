@@ -25,7 +25,8 @@
 
 !!! tip ""
 
+    - [A Software Engineer's Guide to Journaling](devposts/sde-journaling-guide.md)
     - [Multiple Git Accounts - SSH Keys](devposts/multiple_git.md)
     - [Multi-Threading in Python](devposts/multi_threading_python.md)
 
-[^1]: Last Updated: `2018-11-02`
+[^1]: Last Updated: `2019-04-14`

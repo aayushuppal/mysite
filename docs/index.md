@@ -82,4 +82,4 @@ production quality applications and it is my attempt to leverage them together t
 <i class="fab fa-node-js fa-lg"></i>
 <i class="fas fa-code fa-lg"></i>
 
-[^1]: Last Updated: `2019-04-14`
+[^1]: Last Updated: `2019-04-21`

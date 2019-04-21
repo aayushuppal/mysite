@@ -37,8 +37,10 @@ production quality applications and it is my attempt to leverage them together t
 
 ## Current Endeavors
 
+- Recurrent Neural Networks for Time Series Analysis and Prediction
+- Linear Programming, Satisfiability Modulo Theories
 - Building modern scalable web apps on the cloud with React/Python.
-- Machine learning for data science. `Data Science for Good`
+- Machine learning, data science. `Data Science for Good`
 
 ## Featured
 

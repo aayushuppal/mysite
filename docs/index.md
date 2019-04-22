@@ -32,6 +32,7 @@ production quality applications and it is my attempt to leverage them together t
 - [Profile](profile)
 - [Resume](files/Resume Aayush.pdf)
 - [Open Source Cred](oss-cred)
+- [Medium: @aayushuppal](https://medium.com/@aayushuppal)
 
 ***
 

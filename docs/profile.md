@@ -2,7 +2,7 @@
 
 # Profile
 
-- [Resume](files/Resume-Aayush.pdf)
+- [Resume](/cv)
 
 ## **> Work**
 

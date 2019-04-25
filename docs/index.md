@@ -30,7 +30,7 @@ critical insight. Machine Learning / Data Science & Ditributed Systems go hand i
 production quality applications and it is my attempt to leverage them together to achieve the same.
 
 - [Profile](profile)
-- [Resume](files/Resume-Aayush.pdf)
+- [Resume](cv)
 - [Open Source Cred](oss-cred)
 - [Medium: @aayushuppal](https://medium.com/@aayushuppal)
 

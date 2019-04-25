@@ -2,7 +2,7 @@
 
 # Profile
 
-- [Resume](cv)
+- [Resume](cv.md)
 
 ## **> Work**
 

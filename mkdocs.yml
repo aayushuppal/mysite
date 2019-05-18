@@ -87,6 +87,7 @@ pages:
   - Open Source: oss-cred.md
 
   - Dev Posts:
+    - Multi Processing with Queue: devposts/multi_processing_queue.md
     - Multi Threading Python: devposts/multi_threading_python.md
     - Multiple Git Accounts: devposts/multiple_git.md
     - DP/Pg/I: devposts/devposts1.md

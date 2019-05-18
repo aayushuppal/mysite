@@ -25,6 +25,7 @@
 
 !!! tip ""
 
+    - [Multi Processing with Queue - Python](devposts/multi_processing_queue.md)
     - [A Software Engineer's Guide to Journaling](devposts/sde-journaling-guide.md)
     - [Multiple Git Accounts - SSH Keys](devposts/multiple_git.md)
     - [Multi-Threading in Python](devposts/multi_threading_python.md)

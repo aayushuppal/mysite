@@ -47,6 +47,7 @@ production quality applications and it is my attempt to leverage them together t
 
 !!! warning ""
 
+    - [Multi Processing with Queue - Python](devposts/multi_processing_queue)
     - [A Software Engineer's Guide to Journaling](devposts/sde-journaling-guide)
     - [Multiple Git Accounts - SSH Keys](devposts/multiple_git)
     - [Mantra - I](blog/mantra-i)

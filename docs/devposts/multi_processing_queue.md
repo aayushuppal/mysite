@@ -6,8 +6,6 @@
 
 Interfacing multiprocessing queue to delegate tasks to multiprocessing pool in python
 
----
-
 Code snippet
 
 ```python
@@ -44,4 +42,37 @@ for i in range(10):
 
 proc_pool.close()
 proc_pool.join()
+```
+
+---
+
+Using multiprocessing pool with async worker function and callback
+
+Code snippet
+
+```python
+#!/usr/bin/env python3.7
+
+from os import getpid
+import multiprocessing
+from time import sleep
+
+
+def worker_fn(payload):
+    sleep(1)
+    print(f"{getpid()} processing {payload}")
+    return f"{getpid()}-{payload['id']}"
+
+
+def callback_fn(val):
+    print(f"callback {val}")
+
+
+if __name__ == "__main__":
+    proc_pool = multiprocessing.Pool(4)
+    for i in range(0, 10):
+        payload = {"id": i}
+        proc_pool.apply_async(worker_fn, args=(payload,), callback=callback_fn)
+    proc_pool.close()
+    proc_pool.join()
 ```

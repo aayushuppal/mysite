@@ -600,7 +600,6 @@
 <h1 id="queue-and-multi-processing-pool-python">Queue and Multi Processing Pool - Python<a class="headerlink" href="#queue-and-multi-processing-pool-python" title="Permanent link">&para;</a></h1>
 <p><code>May 2019</code></p>
 <p>Interfacing multiprocessing queue to delegate tasks to multiprocessing pool in python</p>
-<hr />
 <p>Code snippet</p>
 <div class="codehilite"><pre><span></span><span class="ch">#!/usr/bin/env python3.7</span>
 
@@ -635,6 +634,35 @@
 
 <span class="n">proc_pool</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
 <span class="n">proc_pool</span><span class="o">.</span><span class="n">join</span><span class="p">()</span>
+</pre></div>
+
+<hr />
+<p>Using multiprocessing pool with async worker function and callback</p>
+<p>Code snippet</p>
+<div class="codehilite"><pre><span></span><span class="ch">#!/usr/bin/env python3.7</span>
+
+<span class="kn">from</span> <span class="nn">os</span> <span class="kn">import</span> <span class="n">getpid</span>
+<span class="kn">import</span> <span class="nn">multiprocessing</span>
+<span class="kn">from</span> <span class="nn">time</span> <span class="kn">import</span> <span class="n">sleep</span>
+
+
+<span class="k">def</span> <span class="nf">worker_fn</span><span class="p">(</span><span class="n">payload</span><span class="p">):</span>
+    <span class="n">sleep</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
+    <span class="k">print</span><span class="p">(</span><span class="n">f</span><span class="s2">&quot;{getpid()} processing {payload}&quot;</span><span class="p">)</span>
+    <span class="k">return</span> <span class="n">f</span><span class="s2">&quot;{getpid()}-{payload[&#39;id&#39;]}&quot;</span>
+
+
+<span class="k">def</span> <span class="nf">callback_fn</span><span class="p">(</span><span class="n">val</span><span class="p">):</span>
+    <span class="k">print</span><span class="p">(</span><span class="n">f</span><span class="s2">&quot;callback {val}&quot;</span><span class="p">)</span>
+
+
+<span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s2">&quot;__main__&quot;</span><span class="p">:</span>
+    <span class="n">proc_pool</span> <span class="o">=</span> <span class="n">multiprocessing</span><span class="o">.</span><span class="n">Pool</span><span class="p">(</span><span class="mi">4</span><span class="p">)</span>
+    <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">10</span><span class="p">):</span>
+        <span class="n">payload</span> <span class="o">=</span> <span class="p">{</span><span class="s2">&quot;id&quot;</span><span class="p">:</span> <span class="n">i</span><span class="p">}</span>
+        <span class="n">proc_pool</span><span class="o">.</span><span class="n">apply_async</span><span class="p">(</span><span class="n">worker_fn</span><span class="p">,</span> <span class="n">args</span><span class="o">=</span><span class="p">(</span><span class="n">payload</span><span class="p">,),</span> <span class="n">callback</span><span class="o">=</span><span class="n">callback_fn</span><span class="p">)</span>
+    <span class="n">proc_pool</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+    <span class="n">proc_pool</span><span class="o">.</span><span class="n">join</span><span class="p">()</span>
 </pre></div>
                 
                   

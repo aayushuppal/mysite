@@ -1,9 +1,13 @@
+body {
+    font-family: "Monospace", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+
 .fontSizeFormInput {
-    font-size:  1.5rem !important;
+    font-size: 1.5rem !important;
 }
 
 img[src$="centerme"] {
-    display:block;
+    display: block;
     margin: 0 auto;
 }
 
@@ -25,7 +29,7 @@ img[src$="centerme"] {
 }
 
 .tags {
-    background-color: hsla(0,0%,93%,.5);
+    background-color: hsla(0, 0%, 93%, .5);
     color: #37474f;
     font-size: 85%;
     direction: ltr;
@@ -63,7 +67,7 @@ img[src$="centerme"] {
     max-width: 55%;
     margin: 1em;
     vertical-align: top;
-  }
+}
 
 .box2 {
     display: inline-block;
@@ -89,7 +93,7 @@ img[src$="centerme"] {
         margin: 0em;
         max-width: 100%;
         text-align: center;
-      }
+    }
 
     .box2 {
         display: block;

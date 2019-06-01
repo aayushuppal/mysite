@@ -9,3 +9,7 @@ stop:
 
 depends:
 	./venv/bin/pip install -r requirements.txt
+
+clean:
+	rm -rf site
+	find . -depth -name "*.pyc" -exec rm -rf {} \;

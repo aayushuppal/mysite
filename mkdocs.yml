@@ -54,7 +54,13 @@ markdown_extensions:
   - pymdownx.tilde
 
 theme:
-  name: 'material'
+  name: null
+  custom_dir: material
+
+  # 404 page
+  static_templates:
+    - 404.html
+
   palette:
     primary: 'white'
     accent: 'indigo'

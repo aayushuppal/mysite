@@ -6,7 +6,7 @@
 
 <div class="box1">
 Hi, I'm Aayush Uppal.<br>
-A Software Engineer, currently working for <a href="https://www.bloomberg.com/company">Bloomberg</a> in New York City
+Software Engineer - Lead Developer, currently working for <a href="https://www.bloomberg.com/company">Bloomberg</a> in New York City
 and a <a href="http://www.buffalo.edu">University at Buffalo</a>
 / <a href="http://nith.ac.in">NIT Hamirpur</a> alumni.
 

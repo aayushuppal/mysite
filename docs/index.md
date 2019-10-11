@@ -25,7 +25,9 @@ and a <a href="http://www.buffalo.edu">University at Buffalo</a>
 </div>
 </div>
 
-As a Software Engineer I am passionate about high performance distributed systems and building applications that provide critical machine learning enabled insight. Experienced Fullstack Engineer with core competency in Distributed Systems and Data Insight Products.
+As a Software Engineer I am passionate about high performance distributed systems and building applications that provide critical machine learning enabled insight. Experienced Fullstack Engineer with core competency in Distributed Systems and Data Insight, Data Science Products.
+<!-- Experience in developing and delivering analytics products using open source big data technologies -->
+
 
 - [Profile](profile)
 - [Resume](cv)

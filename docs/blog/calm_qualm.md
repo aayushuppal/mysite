@@ -41,3 +41,9 @@
     A flaw seems to be the logic but the expression ain’t."</h4></center>
 
 [^1]: `thoughts`, `restless mind`
+
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v5.0"></script>
+
+<div class="fb-comments" data-href="https://aayushuppal.github.io/site/blog/calm_qualm/" data-order-by="social" data-width="100%" data-numposts="5"></div>

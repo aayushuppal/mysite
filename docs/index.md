@@ -6,7 +6,7 @@
 
 <div class="box1">
 Hi, I'm Aayush Uppal.<br>
-Software Engineer - Lead Developer, currently working for <a href="https://www.bloomberg.com/company">Bloomberg</a> in New York City
+Senior Software Engineer, currently working for <a href="https://www.bloomberg.com/company">Bloomberg</a> in New York City
 and a <a href="http://www.buffalo.edu">University at Buffalo</a>
 / <a href="http://nith.ac.in">NIT Hamirpur</a> alumni.
 
@@ -14,7 +14,7 @@ and a <a href="http://www.buffalo.edu">University at Buffalo</a>
 <br/>
 
 - <i class="fas fa-building"></i> New York, USA
-<br/>
+  <br/>
 - <i class="fas fa-mountain"></i> Himachal Pradesh, India
 
 </div>
@@ -26,15 +26,15 @@ and a <a href="http://www.buffalo.edu">University at Buffalo</a>
 </div>
 
 As a Software Engineer I am passionate about high performance distributed systems and building applications that provide critical machine learning enabled insight. Experienced Fullstack Engineer with core competency in Distributed Systems and Data Insight, Data Science Products.
-<!-- Experience in developing and delivering analytics products using open source big data technologies -->
 
+<!-- Experience in developing and delivering analytics products using open source big data technologies -->
 
 - [Profile](profile)
 - [Resume](cv)
 - [Open Source Cred](oss-cred)
 - [Medium: @aayushuppal](https://medium.com/@aayushuppal)
 
-***
+---
 
 ## Current Endeavors
 
@@ -63,7 +63,7 @@ As a Software Engineer I am passionate about high performance distributed system
     - Check out my thread dedicated to the amazing place. [Link](lists/#the-mountain-thread)
     - Amongst other key interests: ==Football==, ==Blues Guitar==
 
-***
+---
 
 :pushpin: Pinned
 

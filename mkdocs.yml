@@ -94,6 +94,7 @@ pages:
   - Playlists: playlists.md
 
   - Dev Posts:
+      - Chronological file organizer: devposts/chronological-file-org.md
       - Multi Processing with Queue: devposts/multi_processing_queue.md
       - Multi Threading Python: devposts/multi_threading_python.md
       - Multiple Git Accounts: devposts/multiple_git.md

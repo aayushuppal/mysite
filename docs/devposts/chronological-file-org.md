@@ -21,8 +21,8 @@ from pathlib import Path
 import shutil
 
 
-IN_DIR = Path("/home/auppal/Desktop/to-do-org")
-OUT_DIR = Path("/home/auppal/Desktop/chrono-org")
+IN_DIR = Path("/path/to/to-do-org-dir")
+OUT_DIR = Path("/path/to/chrono-org-dir")
 
 
 def dtm_to_out_file_path(dtm: datetime, filename: str):

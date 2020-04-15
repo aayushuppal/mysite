@@ -30,8 +30,7 @@ jobs:
         run: |
           python -m pip install wheel
           python -m pip install -r requirements.txt
-          git remote rm origin
-          git remote add origin git@github.com:aayushuppal/site.git
-          git checkout -b gh-pages origin/gh-pages
+          git fetch origin
+          git checkout -b gh-pages git@github.com:aayushuppal/site.git
           git checkout master
           python -m mkdocs gh-deploy

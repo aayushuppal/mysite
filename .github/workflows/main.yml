@@ -28,5 +28,5 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run multiple steps
         run: |
-          pip install -r requirements.txt
-          mkdocs gh-deploy
+          python3.7 -m pip install -r requirements.txt
+          python3.7 -m mkdocs gh-deploy

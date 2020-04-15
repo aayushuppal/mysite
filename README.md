@@ -1,5 +1,6 @@
 [![HitCount](http://hits.dwyl.io/aayushuppal/site.svg)](https://github.com/aayushuppal/site)
 [![GitHub contributors](https://img.shields.io/github/contributors/aayushuppal/site.svg)](https://github.com/aayushuppal/site/graphs/contributors)
+![CI](https://github.com/aayushuppal/site/workflows/CI/badge.svg?branch=master)
 
 
 # aayushuppal/site

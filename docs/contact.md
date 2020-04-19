@@ -1,7 +1,7 @@
 # Contact
 
 <!-- =========================================================================================== -->
-
+<!--
 ## Get in touch or drop a message to collaborate
 
 <div id="Contact_Failed" style="display: none;">
@@ -35,6 +35,7 @@
     </div>
 
     <button id="submitButton" class="btn btn-primary" disabled=true>Submit</button>
+
 </form>
 
 <div id="Contact_Successful" style="display: none;">
@@ -51,23 +52,18 @@
 
 <!-- =========================================================================================== -->
 
-<hr/>
-
-You can also find me at:
-
-- [@LinkedIn](https://www.linkedin.com/in/uppalaayush)
-- [@GitHub](https://github.com/aayushuppal)
-- [@BitBucket](https://bitbucket.org/aayushuppal)
-- [@Twitter](https://twitter.com/aayushuppal)
 - Email: <aayuppal@gmail.com>
+- [LinkedIn - @uppalaayush](https://www.linkedin.com/in/uppalaayush)
+- [GitHub - @aayushuppal](https://github.com/aayushuppal)
+- [Twitter - @aayushuppal](https://twitter.com/aayushuppal)
 
 <!-- =========================================================================================== -->
 
-[^1]: Last Updated: `2018-11-18`
+[^1]: Last Updated: `2020-04`
 
 <!-- =========================================================================================== -->
 
-<script>
+<!-- <script>
 
 function validateForm() {
     var emailField =  $("#emailInputField")[0].value.trim()
@@ -139,4 +135,4 @@ function handleErrors(error) {
     document.getElementById("Contact_Form").style.display = "block"
 }
 
-</script>
+</script> -->

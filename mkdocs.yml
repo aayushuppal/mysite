@@ -86,6 +86,7 @@ google_analytics:
 pages:
   - Home: index.md
   - Profile: profile.md
+  - What I am working on: latest-work-au.md
   # - CV: cv.md
   - Extras: extras.md
   - Lists: lists.md

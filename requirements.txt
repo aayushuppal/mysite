@@ -1,4 +1,4 @@
-setuptools==45
+# setuptools==45
 Click==7.0
 Jinja2>=2.10.1
 livereload==2.5.2

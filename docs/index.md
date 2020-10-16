@@ -25,12 +25,11 @@ and a <a href="http://www.buffalo.edu">University at Buffalo</a>
 </div>
 </div>
 
-As a Software Engineer I am passionate about high performance distributed systems and building applications that provide critical machine learning enabled insight. Experienced Fullstack Engineer with core competency in Distributed Systems and Data Insight, Data Science Products.
+As a Software Engineer I am passionate about high performance distributed systems and building applications that provide critical machine learning enabled insight.
+Experienced Fullstack Engineer with core competency in Distributed Systems and Data Insight, Data Science Products.
 
 <!-- Experience in developing and delivering analytics products using open source big data technologies -->
 
-- [Profile](profile)
-- [Resume](cv)
 - [Open Source Cred](oss-cred)
 - [Medium: @aayushuppal](https://medium.com/@aayushuppal)
 
@@ -38,28 +37,27 @@ As a Software Engineer I am passionate about high performance distributed system
 
 ## Current Endeavors
 
-- Recurrent Neural Networks for Time Series Analysis and Prediction
+- Designing scalable distributed systems with a focus on analytics
 - Linear Programming, Satisfiability Modulo Theories
 - Building modern scalable web apps on the cloud with React/Python.
-- Machine learning, data science. `Data Science for Good`
+<!-- - Recurrent Neural Networks for Time Series Analysis and Prediction -->
+<!-- - Machine learning, data science. `Data Science for Good` -->
 
 ## Featured
 
 !!! warning ""
 
-    - [Multi Processing with Queue - Python](devposts/multi_processing_queue)
+    - [Kangra Valley Train in the Dhauladhars](blog/kangra-valley-train)
     - [A Software Engineer's Guide to Journaling](devposts/sde-journaling-guide)
     - [Multiple Git Accounts - SSH Keys](devposts/multiple_git)
-    - [Mantra - I](blog/mantra-i)
-    - [Multi-Threading in Python](devposts/multi_threading_python)
     - [The Dying Art of Disagreement](blog/art_disagreement)
-    - [Kangra Valley Train in the stunning backdrop of Dhauladhars](blog/kangra-valley-train)
+
 
 ## More About Me
 
 !!! info ""
 
-    - I grew up in a picturesque town on the edge of Himalayas. [Dharamshala](#)
+    - I grew up in a picturesque town on the edge of Himalayas. [Dharamshala](https://www.flickr.com/photos/malasing23/33269946140/in/photostream/lightbox)
     - Check out my thread dedicated to the amazing place. [Link](lists/#the-mountain-thread)
     - Amongst other key interests: ==Football==, ==Blues Guitar==
 

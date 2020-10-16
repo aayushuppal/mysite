@@ -1,4 +1,16 @@
-# Open Source Cred
+# Open Source
+
+## <i class="fab fa-python fa-lg"></i> Jinja
+
+Jinja is a fast, expressive, extensible templating engine.
+Special placeholders in the template allow writing code similar to Python syntax.
+Then the template is passed data to render the final document.
+
+### Links
+
+- [pallets/jinja](https://github.com/pallets/jinja)
+
+---
 
 ## <i class="fab fa-python fa-lg"></i> BHPQ
 

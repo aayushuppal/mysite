@@ -95,22 +95,23 @@ pages:
   - Playlists: playlists.md
 
   - Dev Posts:
+      - SDE Guide to Journaling: devposts/sde-journaling-guide.md
+      - Multiple Git Accounts: devposts/multiple_git.md
       - Chronological file organizer: devposts/chronological-file-org.md
       - Multi Processing with Queue: devposts/multi_processing_queue.md
       - Multi Threading Python: devposts/multi_threading_python.md
-      - Multiple Git Accounts: devposts/multiple_git.md
       - DP/Pg/I: devposts/devposts1.md
       - Root & Custom Rom Android: devposts/root-rom-samsung.md
-      - SDE Guide to Journaling: devposts/sde-journaling-guide.md
+
 
   - Blog:
-      - Mantra - I: blog/mantra-i.md
+      - Calm of the Qualm: blog/calm_qualm.md
+      - Colors of Foliage: blog/colors_of_foliage.md
       - The Dying Art of Disagreement: blog/art_disagreement.md
       - Kangra Valley Train: blog/kangra-valley-train.md
       - Representations: blog/representations.md
       - This Developer Life: blog/this_dev_life.md
       - Not All Shadows: blog/not_all_shadows.md
-      - Calm of the Qualm: blog/calm_qualm.md
       - Road Back Home: blog/road_back_home.md
-      - Colors of Foliage: blog/colors_of_foliage.md
+      - Mantra - I: blog/mantra-i.md
     # - Ordinary Emotion: blog/ordinary-emotion.md

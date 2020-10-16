@@ -1,4 +1,4 @@
-# Open Source
+# OSS
 
 ## <i class="fab fa-python fa-lg"></i> Jinja
 

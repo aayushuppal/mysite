@@ -80,8 +80,7 @@ Experienced Fullstack Engineer with core competency in Distributed Systems and D
 !!! info ""
 
     - I grew up in a picturesque town on the edge of Himalayas. [Dharamshala](https://www.flickr.com/photos/malasing23/33269946140/in/photostream/lightbox)
-    - Check out my thread dedicated to the amazing place. [Link](lists/#the-mountain-thread)
-    - Amongst other key interests: ==Football==, ==Blues Guitar==
+    - Amongst other interests: ==Football==, ==Blues Guitar==, ==Hiking==
 
 ---
 

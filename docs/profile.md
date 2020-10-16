@@ -23,9 +23,8 @@
         - Tools for continuous integration and development, a generic oozie based hadoop job manager.
         - Key Backend Systems and Service Development.
         - Spark Streaming Analysis for distributed logs.
-        - Pushing product ideas from the ground up to execution.
-        - Taking complete ownership for continuous development.
-        - Mentoring projects.
+        - Pushing project ideas from the ground up to execution.
+        - Leading, Mentoring projects.
     - Key Aspects: Design and Development, C++, Python, Distributed Systems, Data Science, Apache Spark
 
 ### Amazon - Software Development Engineer, Intern

@@ -33,7 +33,6 @@ Experienced Fullstack Engineer with core competency in Distributed Systems and D
 <!-- - [Open Source Cred](oss-cred)
 - [Medium: @aayushuppal](https://medium.com/@aayushuppal) -->
 
----
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">

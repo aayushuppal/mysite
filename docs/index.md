@@ -30,8 +30,8 @@ Experienced Fullstack Engineer with core competency in Distributed Systems and D
 
 <!-- Experience in developing and delivering analytics products using open source big data technologies -->
 
-- [Open Source Cred](oss-cred)
-- [Medium: @aayushuppal](https://medium.com/@aayushuppal)
+<!-- - [Open Source Cred](oss-cred)
+- [Medium: @aayushuppal](https://medium.com/@aayushuppal) -->
 
 ---
 

@@ -2,18 +2,18 @@
 
 # Home
 
-:information_source: Engineer | Creature of the High Mountains | Himalayas :arrows_clockwise: NYC
+:information_source: Engineer | Creature of the High Mountains | Himalayas :arrows_clockwise: Pacific Northwest
 
 <div class="box1">
 Hi, I'm Aayush Uppal.<br>
-Senior Software Engineer, currently working for <a href="https://www.bloomberg.com/company">Bloomberg</a> in New York City
-and a <a href="http://www.buffalo.edu">University at Buffalo</a>
-/ <a href="http://nith.ac.in">NIT Hamirpur</a> alumni.
+Software Engineer, currently working for <a href="https://about.fb.com/" target="_blank">Facebook</a> in Seattle
+and a <a href="http://www.buffalo.edu" target="_blank">University at Buffalo</a>
+/ <a href="http://nith.ac.in" target="_blank">NIT Hamirpur</a> alumni.
 
 <br/>
 <br/>
 
-- <i class="fas fa-building"></i> New York, USA
+- <i class="fas fa-building"></i> Seattle, USA
   <br/>
 - <i class="fas fa-mountain"></i> Himachal Pradesh, India
 

@@ -7,7 +7,7 @@
 <div class="box1">
 Hi, I'm Aayush Uppal.<br>
 Software Engineer, currently working for <a href="https://about.fb.com/" target="_blank">Facebook</a> in Seattle
-and a <a href="http://www.buffalo.edu" target="_blank">University at Buffalo</a>
+and a <a href="http://www.buffalo.edu" target="_blank">State University of New York - Buffalo</a>
 / <a href="http://nith.ac.in" target="_blank">NIT Hamirpur</a> alumni.
 
 <br/>

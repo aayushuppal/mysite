@@ -8,7 +8,7 @@
     picture above.
 
     But that isn't the only reason I find this so captivating. Those mountains right in the backdrop are something
-    I am fond of, the nooks and crevices etched on that landscape are more familiar to me than the lines on the
+    I am fond of, the nooks and crevices etched on that landscape seem more familiar to me than the lines on the
     back of my hand.
 
     The line thins for a picture like this for someone like me, is it the picture I am looking at or the memory that

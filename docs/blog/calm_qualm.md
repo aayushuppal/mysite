@@ -1,6 +1,6 @@
 # Calm of the Qualm
 
-!!! quote "Aayush Uppal | 2016"
+!!! quote "Aayush Uppal | 16"
     <center><h4>“ To comprehend is not a concern to be,<br/>
     cause justification ain’t the order of the disorder.”</h4></center>
 
